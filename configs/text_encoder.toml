@@ -1,0 +1,108 @@
+# Provenance for the frozen text embeddings consumed by ReDRGNN.
+# This file is descriptive and is not loaded by the ReDRGNN trainer.
+
+[role]
+used_by_redrgnn = "frozen_precomputed_embeddings"
+jointly_optimized_with_redrgnn = false
+
+[model]
+name = "Qwen3-0.6B"
+architecture = "Qwen3ForCausalLM"
+hidden_size = 1024
+num_hidden_layers = 28
+num_attention_heads = 16
+num_key_value_heads = 8
+finetuning_type = "full"
+stage = "sft"
+template = "qwen3_nothink"
+enable_thinking = false
+
+[data]
+strategy = "positive_plus_reliable_negative"
+reliable_negative_to_unlabeled_ratio = "1:0"
+uses_unlabeled_examples = false
+train_fraction = 0.90
+split_seed = 42
+ratio_sampling_seed = 20260528
+authority_holdout_pairs = 70
+public_test_pairs = 392
+train_rows = 19632
+train_unique_pairs = 19626
+train_positive = 14222
+train_negative = 5410
+validation_rows = 2183
+validation_unique_pairs = 2183
+validation_positive = 1581
+validation_negative = 602
+test_rows = 392
+test_positive = 196
+test_negative = 196
+instruction = "Determine whether the drug is indicated for the disease. Answer Yes or No."
+input_format = "Drug: {drug}; Disease: {disease}"
+output_labels = ["Yes", "No"]
+
+[training]
+seed = 42
+data_seed = 42
+cutoff_length = 128
+epochs = 3.0
+learning_rate = 1e-5
+per_device_train_batch_size = 32
+per_device_eval_batch_size = 8
+devices = 4
+global_train_batch_size = 128
+global_eval_batch_size = 32
+gradient_accumulation_steps = 1
+precision = "bfloat16"
+optimizer = "adamw_torch_fused"
+adam_beta1 = 0.9
+adam_beta2 = 0.999
+adam_epsilon = 1e-8
+weight_decay = 0.0
+max_gradient_norm = 1.0
+lr_scheduler = "cosine"
+warmup_ratio = 0.05
+gradient_checkpointing = false
+flash_attention = "auto"
+preprocessing_workers = 24
+logging_steps = 10
+evaluation_strategy = "steps"
+evaluation_steps = 25
+save_strategy = "steps"
+save_steps = 50
+checkpoint_selection = "final_epoch"
+
+[embedding_export]
+checkpoint = "final_epoch_3"
+entities = 9552
+drugs = 4335
+diseases = 5217
+input_md5 = "329005699a524bbc06e91996135740bf"
+batch_size = 32
+max_length = 1024
+model_inference_precision = "float16"
+pooling = "last_token"
+l2_normalized = true
+saved_dtype = "float32"
+embedding_dimension = 1024
+drug_shape = [4335, 1024]
+disease_shape = [5217, 1024]
+text_template = """
+Entity type: {entity_type}
+Name: {entity}
+{optional_standard_name_line}
+Description source: {description_source}
+Description: {description}
+"""
+standard_name_line = "Standard name: {standard_name}"
+standard_name_rule = "Include only when standard_name is non-empty and differs from entity."
+
+[observed_run]
+global_steps = 462
+train_loss = 0.34565384147358147
+validation_loss = 0.05915352329611778
+train_runtime_seconds = 801.1627
+transformers_version = "5.2.0"
+pytorch_version = "2.11.0+cu126"
+datasets_version = "4.8.4"
+tokenizers_version = "0.22.2"

@@ -1,0 +1,96 @@
+# Provenance for the frozen DistMult entity embeddings consumed by ReDRGNN.
+# This file is descriptive and is not loaded by the ReDRGNN trainer.
+
+[role]
+used_by_redrgnn = "frozen_precomputed_kg_entity_embeddings"
+jointly_optimized_with_redrgnn = false
+relation_embeddings_used_by_final_model = false
+
+[data]
+edge_directory = "../edges_by_relation"
+entity_index = "../embeddings/entities.tsv"
+entity_format = "Type::cleaned_name"
+edge_files = 24
+entities = 898880
+relations = 23
+triples_total = 5491599
+train_triples = 5381769
+validation_triples = 54915
+test_triples = 54915
+validation_ratio = 0.01
+test_ratio = 0.01
+split_seed = 20260521
+duplicate_triples_removed_before_split = true
+split_method = "Shuffle unique triples once; assign validation, then test, then training."
+test_used_for_training_or_early_stopping = false
+leakage_filtered_input = true
+
+[model]
+name = "DistMult"
+entity_embedding_dimension = 256
+relation_embedding_dimension = 256
+score_function = "sum(head * relation * tail)"
+parameter_initialization = "xavier_uniform"
+training_dtype = "float32"
+gamma = 12.0
+gamma_used_by_distmult = false
+
+[training]
+seed = 20260521
+device = "cuda:0"
+optimizer = "AdamW"
+learning_rate = 3e-4
+adam_beta1 = 0.9
+adam_beta2 = 0.999
+adam_epsilon = 1e-8
+weight_decay = 1e-4
+lr_scheduler = "none"
+positive_batch_size = 8192
+num_workers = 0
+drop_last = false
+pin_memory_on_cuda = true
+maximum_epochs = 40
+maximum_steps_per_epoch = 0
+gradient_clip_norm = 1.0
+loss = "BCEWithLogitsLoss"
+evaluate_every_epochs = 1
+validation_batch_size = 8192
+
+[negative_sampling]
+training_negatives_per_positive = 16
+validation_negatives_per_positive = 8
+entity_distribution = "uniform"
+corruption = "replace head or tail with equal probability"
+filtered_against_known_triples = false
+
+[regularization]
+entity_l2_coefficient = 1e-6
+entity_l2_definition = "mean(head_embedding^2) + mean(tail_embedding^2) for positive triples"
+relation_l2_coefficient = 0.0
+
+[early_stopping]
+metric = "validation BCE loss"
+mode = "min"
+patience = 6
+minimum_delta = 2e-4
+save_best_on_any_lower_loss = true
+
+[observed_run]
+best_epoch = 8
+best_validation_loss = 0.0882357507944107
+finished_epoch = 14
+stop_reason = "early_stop_patience_6"
+runtime_seconds = 1169.679
+pytorch_version = "2.5.1+cu121"
+
+[export]
+checkpoint = "best_epoch_8"
+entity_embeddings = "../embeddings/entity_embeddings.npy"
+entity_embeddings_shape = [898880, 256]
+entity_embeddings_dtype = "float32"
+entity_embeddings_sha256 = "7dcc3bfdf347b2b697b793a4928c9c264f7db51ef0ad8cdb711e5b2f10b03bd8"
+entity_index = "../embeddings/entities.tsv"
+entity_index_rows = 898880
+entity_index_sha256 = "82bb48b210f4801f19e7af0dcaa55c8588da645b85ff6993ab890929e02e2094"
+relation_embeddings_were_exported = true
+relation_embeddings_are_required_by_redrgnn = false

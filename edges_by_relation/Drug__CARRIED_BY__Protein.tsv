@@ -1,0 +1,1062 @@
+head_name	relation	tail_name
+Asparaginase Escherichia coli	CARRIED_BY	Thyroxine-binding globulin
+Testosterone cypionate	CARRIED_BY	Albumin
+Testosterone cypionate	CARRIED_BY	Sex hormone-binding globulin
+Testosterone enanthate	CARRIED_BY	Albumin
+Testosterone enanthate	CARRIED_BY	Sex hormone-binding globulin
+Testosterone undecanoate	CARRIED_BY	Albumin
+Testosterone undecanoate	CARRIED_BY	Sex hormone-binding globulin
+Ferric cation	CARRIED_BY	Calreticulin
+Ferric cation	CARRIED_BY	Integrin beta-3
+Ferric cation	CARRIED_BY	Serotransferrin
+Stanolone acetate	CARRIED_BY	Sex hormone-binding globulin
+Estradiol acetate	CARRIED_BY	Albumin
+Estradiol acetate	CARRIED_BY	Fatty acid-binding protein, intestinal
+Estradiol acetate	CARRIED_BY	Sex hormone-binding globulin
+Estradiol benzoate	CARRIED_BY	Albumin
+Estradiol benzoate	CARRIED_BY	Fatty acid-binding protein, intestinal
+Estradiol benzoate	CARRIED_BY	Sex hormone-binding globulin
+Estradiol cypionate	CARRIED_BY	Albumin
+Estradiol cypionate	CARRIED_BY	Fatty acid-binding protein, intestinal
+Estradiol cypionate	CARRIED_BY	Sex hormone-binding globulin
+Estradiol dienanthate	CARRIED_BY	Albumin
+Estradiol dienanthate	CARRIED_BY	Fatty acid-binding protein, intestinal
+Estradiol dienanthate	CARRIED_BY	Sex hormone-binding globulin
+Estradiol valerate	CARRIED_BY	Albumin
+Estradiol valerate	CARRIED_BY	Fatty acid-binding protein, intestinal
+Estradiol valerate	CARRIED_BY	Sex hormone-binding globulin
+Medium-chain triglycerides	CARRIED_BY	Albumin
+Ruxolitinib	CARRIED_BY	Albumin
+Vemurafenib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Vemurafenib	CARRIED_BY	Albumin
+Mirabegron	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Mirabegron	CARRIED_BY	Albumin
+Tofacitinib	CARRIED_BY	Albumin
+Enzalutamide	CARRIED_BY	Albumin
+Bedaquiline	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Bedaquiline	CARRIED_BY	Albumin
+Fluticasone furoate	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Fluticasone furoate	CARRIED_BY	Albumin
+Fluticasone furoate	CARRIED_BY	Corticosteroid-binding globulin
+Canagliflozin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Dabrafenib	CARRIED_BY	Albumin
+Stearic acid	CARRIED_BY	Albumin
+Stearic acid	CARRIED_BY	Fatty acid-binding protein, heart
+Pegaspargase	CARRIED_BY	Thyroxine-binding globulin
+Hyaluronidase (ovine)	CARRIED_BY	Albumin
+Daptomycin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Daptomycin	CARRIED_BY	Alpha-1-antitrypsin
+Daptomycin	CARRIED_BY	Albumin
+Daptomycin	CARRIED_BY	Hemopexin
+Daptomycin	CARRIED_BY	Low-density lipoprotein receptor
+Daptomycin	CARRIED_BY	Sex hormone-binding globulin
+Botulinum toxin type A	CARRIED_BY	Albumin
+Octreotide	CARRIED_BY	Albumin
+Oxytocin	CARRIED_BY	Oxytocin-neurophysin 1
+Mycophenolic acid	CARRIED_BY	Albumin
+Ketoconazole	CARRIED_BY	Albumin
+Ketoconazole	CARRIED_BY	Sex hormone-binding globulin
+Irbesartan	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Irbesartan	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Irbesartan	CARRIED_BY	Albumin
+Probenecid	CARRIED_BY	Albumin
+Fenofibrate	CARRIED_BY	Albumin
+Melphalan	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Melphalan	CARRIED_BY	Albumin
+Gatifloxacin	CARRIED_BY	Albumin
+Rifampin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Rifampin	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Rifampin	CARRIED_BY	Albumin
+Fluocinonide	CARRIED_BY	Corticosteroid-binding globulin
+Ibuprofen	CARRIED_BY	Albumin
+Benzylpenicillin	CARRIED_BY	Albumin
+Tocainide	CARRIED_BY	Albumin
+Echothiophate	CARRIED_BY	Albumin
+Praziquantel	CARRIED_BY	Albumin
+Amoxicillin	CARRIED_BY	Albumin
+Oxybutynin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Oxybutynin	CARRIED_BY	Albumin
+Isoprenaline	CARRIED_BY	Albumin
+Glipizide	CARRIED_BY	Albumin
+Clonazepam	CARRIED_BY	Albumin
+Promethazine	CARRIED_BY	Albumin
+Atazanavir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Atazanavir	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Atazanavir	CARRIED_BY	Albumin
+Atorvastatin	CARRIED_BY	Albumin
+Orlistat	CARRIED_BY	Albumin
+Benzocaine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Benzocaine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Benzocaine	CARRIED_BY	Albumin
+Iloprost	CARRIED_BY	Albumin
+Dimethyl sulfoxide	CARRIED_BY	Transthyretin
+Rosuvastatin	CARRIED_BY	Albumin
+Capecitabine	CARRIED_BY	Albumin
+Sertraline	CARRIED_BY	Albumin
+Miconazole	CARRIED_BY	Albumin
+Nifedipine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Nifedipine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Nifedipine	CARRIED_BY	Albumin
+Amiodarone	CARRIED_BY	Albumin
+Diazoxide	CARRIED_BY	Albumin
+Gliclazide	CARRIED_BY	Albumin
+Tolbutamide	CARRIED_BY	Albumin
+Dutasteride	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Dutasteride	CARRIED_BY	Albumin
+Pioglitazone	CARRIED_BY	Albumin
+Tiludronic acid	CARRIED_BY	Albumin
+Carvedilol	CARRIED_BY	Albumin
+Levofloxacin	CARRIED_BY	Albumin
+Sulfinpyrazone	CARRIED_BY	Fatty acid-binding protein, intestinal
+Doxepin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Doxepin	CARRIED_BY	Albumin
+Cloxacillin	CARRIED_BY	Albumin
+Ascorbic acid	CARRIED_BY	Albumin
+alpha-Linolenic acid	CARRIED_BY	Fatty acid-binding protein, brain
+Calcitriol	CARRIED_BY	Vitamin D-binding protein
+Lutein	CARRIED_BY	Albumin
+Thiamine	CARRIED_BY	Albumin
+Ergocalciferol	CARRIED_BY	Vitamin D-binding protein
+Dihomo-gamma-linolenic acid	CARRIED_BY	Fatty acid-binding protein, brain
+Icosapent	CARRIED_BY	Albumin
+Vitamin A	CARRIED_BY	Albumin
+Vitamin A	CARRIED_BY	Retinol-binding protein 1
+Vitamin A	CARRIED_BY	Retinol-binding protein 2
+Vitamin A	CARRIED_BY	Retinol-binding protein 3
+Vitamin A	CARRIED_BY	Retinol-binding protein 4
+Vitamin A	CARRIED_BY	Retinol-binding protein 5
+Vitamin A	CARRIED_BY	Retinoid-binding protein 7
+Vitamin A	CARRIED_BY	Retinaldehyde-binding protein 1
+Vitamin E	CARRIED_BY	Phospholipid transfer protein
+Vitamin E	CARRIED_BY	SEC14-like protein 2
+Vitamin E	CARRIED_BY	SEC14-like protein 3
+Vitamin E	CARRIED_BY	Alpha-tocopherol transfer protein
+Pyridoxine	CARRIED_BY	Albumin
+Cholecalciferol	CARRIED_BY	Vitamin D-binding protein
+Flunisolide	CARRIED_BY	Corticosteroid-binding globulin
+Hydroxocobalamin	CARRIED_BY	Transcobalamin-2
+Torasemide	CARRIED_BY	Albumin
+Nelfinavir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Nelfinavir	CARRIED_BY	Albumin
+Lovastatin	CARRIED_BY	Albumin
+Enflurane	CARRIED_BY	Albumin
+Butabarbital	CARRIED_BY	Albumin
+Nevirapine	CARRIED_BY	Albumin
+Alclometasone	CARRIED_BY	Corticosteroid-binding globulin
+3-sulfino-L-alanine	CARRIED_BY	Fatty acid-binding protein, adipocyte
+O-Trifluoromethylphenyl Anthranilic Acid	CARRIED_BY	Transthyretin
+Ranolazine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Benzatropine	CARRIED_BY	Albumin
+Ziprasidone	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ziprasidone	CARRIED_BY	Albumin
+Phenytoin	CARRIED_BY	Albumin
+Phenytoin	CARRIED_BY	Thyroxine-binding globulin
+Medrysone	CARRIED_BY	Corticosteroid-binding globulin
+Doxycycline	CARRIED_BY	Albumin
+Diethylstilbestrol	CARRIED_BY	Transthyretin
+Metoprolol	CARRIED_BY	Albumin
+Dicoumarol	CARRIED_BY	Albumin
+Topiramate	CARRIED_BY	Albumin
+Cefmetazole	CARRIED_BY	Albumin
+Argatroban	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Argatroban	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Argatroban	CARRIED_BY	Albumin
+Liothyronine	CARRIED_BY	Albumin
+Liothyronine	CARRIED_BY	Thyroxine-binding globulin
+Liothyronine	CARRIED_BY	Transthyretin
+Disopyramide	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Conjugated estrogens	CARRIED_BY	Albumin
+Conjugated estrogens	CARRIED_BY	Thyroxine-binding globulin
+Conjugated estrogens	CARRIED_BY	Sex hormone-binding globulin
+Atomoxetine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Atomoxetine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Atomoxetine	CARRIED_BY	Albumin
+Atomoxetine	CARRIED_BY	High affinity immunoglobulin gamma Fc receptor I
+Etomidate	CARRIED_BY	Solute carrier family 2, facilitated glucose transporter member 1
+Etonogestrel	CARRIED_BY	Albumin
+Etonogestrel	CARRIED_BY	Sex hormone-binding globulin
+Morphine	CARRIED_BY	Albumin
+Ropivacaine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ertapenem	CARRIED_BY	Albumin
+Desogestrel	CARRIED_BY	Albumin
+Desogestrel	CARRIED_BY	Sex hormone-binding globulin
+Chlorthalidone	CARRIED_BY	Albumin
+Valproic acid	CARRIED_BY	Albumin
+Acetaminophen	CARRIED_BY	Albumin
+Gefitinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Gefitinib	CARRIED_BY	Albumin
+Amitriptyline	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Amitriptyline	CARRIED_BY	Albumin
+Floxuridine	CARRIED_BY	Thyroxine-binding globulin
+Fluorometholone	CARRIED_BY	Corticosteroid-binding globulin
+Hydromorphone	CARRIED_BY	Albumin
+Indomethacin	CARRIED_BY	Albumin
+Ipratropium	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ipratropium	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Ipratropium	CARRIED_BY	Albumin
+Methadone	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Methadone	CARRIED_BY	Albumin
+Olanzapine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Olanzapine	CARRIED_BY	Albumin
+Atenolol	CARRIED_BY	Albumin
+Terfenadine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Terfenadine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Terfenadine	CARRIED_BY	Albumin
+Diltiazem	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Diltiazem	CARRIED_BY	Albumin
+Alfuzosin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Alfuzosin	CARRIED_BY	Albumin
+Clobazam	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Clobazam	CARRIED_BY	Albumin
+Clozapine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Clozapine	CARRIED_BY	Albumin
+Doxylamine	CARRIED_BY	Albumin
+Desipramine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Bupropion	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Halothane	CARRIED_BY	Albumin
+Itraconazole	CARRIED_BY	Albumin
+Arsenic trioxide	CARRIED_BY	Albumin
+Orphenadrine	CARRIED_BY	Albumin
+Cyclizine	CARRIED_BY	Albumin
+Naloxone	CARRIED_BY	Albumin
+Fluoxymesterone	CARRIED_BY	Sex hormone-binding globulin
+Desflurane	CARRIED_BY	Albumin
+Clindamycin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Flecainide	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Flecainide	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Flecainide	CARRIED_BY	Albumin
+Captopril	CARRIED_BY	Albumin
+Nadolol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Nadolol	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Ceftriaxone	CARRIED_BY	Albumin
+Dantrolene	CARRIED_BY	Thyroxine-binding globulin
+Budesonide	CARRIED_BY	Albumin
+Budesonide	CARRIED_BY	Corticosteroid-binding globulin
+Saquinavir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Saquinavir	CARRIED_BY	Albumin
+Metoclopramide	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Dexamethasone	CARRIED_BY	Albumin
+Levodopa	CARRIED_BY	Albumin
+Sevoflurane	CARRIED_BY	Albumin
+Aripiprazole	CARRIED_BY	Albumin
+Gemfibrozil	CARRIED_BY	Albumin
+Clomipramine	CARRIED_BY	Albumin
+Darunavir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Darunavir	CARRIED_BY	Albumin
+Hydralazine	CARRIED_BY	Albumin
+Exenatide	CARRIED_BY	Albumin
+S-Methylcysteine	CARRIED_BY	Fatty acid-binding protein, liver
+Flufenamic acid	CARRIED_BY	Transthyretin
+Trihexyphenidyl	CARRIED_BY	Albumin
+Sulpiride	CARRIED_BY	Albumin
+Beclomethasone dipropionate	CARRIED_BY	Corticosteroid-binding globulin
+Alprazolam	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Alprazolam	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Alprazolam	CARRIED_BY	Albumin
+Remoxipride	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Remoxipride	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Rosiglitazone	CARRIED_BY	Albumin
+Acetohexamide	CARRIED_BY	Albumin
+Ampicillin	CARRIED_BY	Albumin
+Spironolactone	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Spironolactone	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Spironolactone	CARRIED_BY	Albumin
+Triprolidine	CARRIED_BY	Albumin
+Cefpiramide	CARRIED_BY	Albumin
+Trifluridine	CARRIED_BY	Albumin
+Cyproheptadine	CARRIED_BY	Albumin
+Mecasermin	CARRIED_BY	Insulin-like growth factor-binding protein complex acid labile subunit
+Mecasermin	CARRIED_BY	Insulin-like growth factor-binding protein 1
+Mecasermin	CARRIED_BY	Insulin-like growth factor-binding protein 2
+Mecasermin	CARRIED_BY	Insulin-like growth factor-binding protein 3
+Mecasermin	CARRIED_BY	Insulin-like growth factor-binding protein 4
+Mecasermin	CARRIED_BY	Insulin-like growth factor-binding protein 5
+Mecasermin	CARRIED_BY	Insulin-like growth factor-binding protein 6
+Nelarabine	CARRIED_BY	Equilibrative nucleoside transporter 1
+Bismuth subsalicylate	CARRIED_BY	Albumin
+Bismuth subsalicylate	CARRIED_BY	Serotransferrin
+Insulin detemir	CARRIED_BY	Albumin
+Fosphenytoin	CARRIED_BY	Albumin
+Fosphenytoin	CARRIED_BY	Thyroxine-binding globulin
+Polythiazide	CARRIED_BY	Albumin
+Cefazolin	CARRIED_BY	Albumin
+Cefonicid	CARRIED_BY	Albumin
+Cefoperazone	CARRIED_BY	Albumin
+Cefotetan	CARRIED_BY	Albumin
+Penbutolol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ephedrine	CARRIED_BY	Albumin
+3',5'-Dinitro-N-Acetyl-L-Thyronine	CARRIED_BY	Transthyretin
+2-Methoxyestradiol	CARRIED_BY	Sex hormone-binding globulin
+Ceftazidime	CARRIED_BY	Albumin
+Betamethasone	CARRIED_BY	Albumin
+Betamethasone	CARRIED_BY	Corticosteroid-binding globulin
+Levothyroxine	CARRIED_BY	Albumin
+Levothyroxine	CARRIED_BY	Thyroxine-binding globulin
+Levothyroxine	CARRIED_BY	Transthyretin
+Meperidine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Meperidine	CARRIED_BY	Albumin
+Cefalotin	CARRIED_BY	Albumin
+Prazosin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Imipramine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Imipramine	CARRIED_BY	Albumin
+Acitretin	CARRIED_BY	Albumin
+Verteporfin	CARRIED_BY	Apolipoprotein A-I
+Verteporfin	CARRIED_BY	Apolipoprotein A-II
+Verteporfin	CARRIED_BY	Apolipoprotein A-IV
+Verteporfin	CARRIED_BY	Apolipoprotein(a)
+Verteporfin	CARRIED_BY	Apolipoprotein B-100
+Verteporfin	CARRIED_BY	Apolipoprotein C-II
+Verteporfin	CARRIED_BY	Apolipoprotein C-III
+Verteporfin	CARRIED_BY	Apolipoprotein D
+Verteporfin	CARRIED_BY	Apolipoprotein E
+Verteporfin	CARRIED_BY	Apolipoprotein L1
+Verteporfin	CARRIED_BY	Apolipoprotein M
+Nabumetone	CARRIED_BY	Albumin
+Fluoxetine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Fluoxetine	CARRIED_BY	Albumin
+Duloxetine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Duloxetine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Duloxetine	CARRIED_BY	Albumin
+Chlorpromazine	CARRIED_BY	Albumin
+Raloxifene	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Raloxifene	CARRIED_BY	Albumin
+Dicloxacillin	CARRIED_BY	Albumin
+Buspirone	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Buspirone	CARRIED_BY	Albumin
+Zidovudine	CARRIED_BY	Albumin
+Oxycodone	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Oxycodone	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Oxycodone	CARRIED_BY	Albumin
+Tolmetin	CARRIED_BY	Albumin
+Cimetidine	CARRIED_BY	Albumin
+Ritonavir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ritonavir	CARRIED_BY	Albumin
+Vancomycin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Vancomycin	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Vancomycin	CARRIED_BY	Albumin
+Cisplatin	CARRIED_BY	Albumin
+Alitretinoin	CARRIED_BY	Cellular retinoic acid-binding protein 1
+Alitretinoin	CARRIED_BY	Cellular retinoic acid-binding protein 2
+Oxaliplatin	CARRIED_BY	Albumin
+Erlotinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Erlotinib	CARRIED_BY	Albumin
+Mephenytoin	CARRIED_BY	Thyroxine-binding globulin
+Ciprofloxacin	CARRIED_BY	Albumin
+Nortriptyline	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Nortriptyline	CARRIED_BY	Albumin
+Amoxapine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Fluorouracil	CARRIED_BY	Albumin
+Fluorouracil	CARRIED_BY	Thyroxine-binding globulin
+Piroxicam	CARRIED_BY	Albumin
+Lamotrigine	CARRIED_BY	Albumin
+Hydroxyzine	CARRIED_BY	Albumin
+Methotrexate	CARRIED_BY	Albumin
+2,4,6-Tribromophenol	CARRIED_BY	Transthyretin
+Aluminium	CARRIED_BY	Albumin
+Cortisone acetate	CARRIED_BY	Albumin
+Cortisone acetate	CARRIED_BY	Corticosteroid-binding globulin
+Paramethasone	CARRIED_BY	Corticosteroid-binding globulin
+Colchicine	CARRIED_BY	Albumin
+Digitoxin	CARRIED_BY	Albumin
+Magnesium salicylate	CARRIED_BY	Albumin
+Danazol	CARRIED_BY	Sex hormone-binding globulin
+Ciclesonide	CARRIED_BY	Corticosteroid-binding globulin
+Acenocoumarol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Acenocoumarol	CARRIED_BY	Albumin
+Testosterone propionate	CARRIED_BY	Albumin
+Testosterone propionate	CARRIED_BY	Sex hormone-binding globulin
+Ajmaline	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Aprindine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Alfacalcidol	CARRIED_BY	Vitamin D-binding protein
+Alfacalcidol	CARRIED_BY	V9H1D9
+Diamorphine	CARRIED_BY	Thyroxine-binding globulin
+3,3',5,5'-tetrachlorobiphenyl-4,4'-diol	CARRIED_BY	Transthyretin
+Cholic Acid	CARRIED_BY	Fatty acid-binding protein, liver
+Sulfamerazine	CARRIED_BY	Albumin
+Cephalexin	CARRIED_BY	Albumin
+Cinnarizine	CARRIED_BY	Albumin
+Propranolol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Propranolol	CARRIED_BY	Albumin
+Atropine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Fenoprofen	CARRIED_BY	Albumin
+Clonidine	CARRIED_BY	Albumin
+Sulfamethizole	CARRIED_BY	Albumin
+Enalapril	CARRIED_BY	Albumin
+Diclofenac	CARRIED_BY	Albumin
+Diclofenac	CARRIED_BY	Transthyretin
+Fluticasone propionate	CARRIED_BY	Corticosteroid-binding globulin
+Fluticasone propionate	CARRIED_BY	Solute carrier organic anion transporter family member 1B1
+Fluocinolone acetonide	CARRIED_BY	Corticosteroid-binding globulin
+Oxytetracycline	CARRIED_BY	Albumin
+Ulobetasol	CARRIED_BY	Corticosteroid-binding globulin
+Labetalol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Labetalol	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Labetalol	CARRIED_BY	Albumin
+Linezolid	CARRIED_BY	Albumin
+Medroxyprogesterone acetate	CARRIED_BY	Albumin
+Sulindac	CARRIED_BY	Albumin
+Nafcillin	CARRIED_BY	Albumin
+Chloroquine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Chloroquine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Chloroquine	CARRIED_BY	Albumin
+Imatinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Imatinib	CARRIED_BY	Albumin
+Triamcinolone	CARRIED_BY	Albumin
+Triamcinolone	CARRIED_BY	Corticosteroid-binding globulin
+Testosterone	CARRIED_BY	Albumin
+Testosterone	CARRIED_BY	Sex hormone-binding globulin
+Efavirenz	CARRIED_BY	Albumin
+Niacin	CARRIED_BY	Thyroxine-binding globulin
+Cysteine-Methylene-Carbamoyl-1,10-Phenanthroline	CARRIED_BY	Fatty acid-binding protein, adipocyte
+8-anilinonaphthalene-1-sulfonic acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+8-anilinonaphthalene-1-sulfonic acid	CARRIED_BY	Transthyretin
+N-(M-Trifluoromethylphenyl) Phenoxazine-4,6-Dicarboxylic Acid	CARRIED_BY	Transthyretin
+Resveratrol	CARRIED_BY	Albumin
+Resveratrol	CARRIED_BY	Transthyretin
+Sulfamethazine	CARRIED_BY	Albumin
+Liotrix	CARRIED_BY	Albumin
+Liotrix	CARRIED_BY	Thyroxine-binding globulin
+Liotrix	CARRIED_BY	Transthyretin
+Ketazolam	CARRIED_BY	Albumin
+Solifenacin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Solifenacin	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Lopinavir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Lopinavir	CARRIED_BY	Albumin
+Hydroxychloroquine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Hydroxychloroquine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Hydroxychloroquine	CARRIED_BY	Albumin
+Acepromazine	CARRIED_BY	Albumin
+Phenindamine	CARRIED_BY	Albumin
+Pipotiazine	CARRIED_BY	Albumin
+Thioproperazine	CARRIED_BY	Albumin
+Thiothixene	CARRIED_BY	Albumin
+Lincomycin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+5-fluorouridine	CARRIED_BY	Thyroxine-binding globulin
+Genistein	CARRIED_BY	Transthyretin
+Topiroxostat	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Topiroxostat	CARRIED_BY	Albumin
+Oxyphenbutazone	CARRIED_BY	Albumin
+Capric acid	CARRIED_BY	Albumin
+Prednisone	CARRIED_BY	Albumin
+Prednisone	CARRIED_BY	Corticosteroid-binding globulin
+Clofibrate	CARRIED_BY	Thyroxine-binding globulin
+Adenosine	CARRIED_BY	Albumin
+Pemetrexed	CARRIED_BY	Albumin
+Mitotane	CARRIED_BY	Corticosteroid-binding globulin
+Mitotane	CARRIED_BY	Thyroxine-binding globulin
+Mitotane	CARRIED_BY	Sex hormone-binding globulin
+Stavudine	CARRIED_BY	Albumin
+Estrone	CARRIED_BY	Albumin
+Verapamil	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Verapamil	CARRIED_BY	Albumin
+Flumethasone	CARRIED_BY	Corticosteroid-binding globulin
+Tamoxifen	CARRIED_BY	Albumin
+Tamoxifen	CARRIED_BY	Thyroxine-binding globulin
+Isoflurophate	CARRIED_BY	Albumin
+Losartan	CARRIED_BY	Albumin
+Warfarin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Warfarin	CARRIED_BY	Albumin
+Midazolam	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Midazolam	CARRIED_BY	Albumin
+Fludrocortisone	CARRIED_BY	Albumin
+Fludrocortisone	CARRIED_BY	Corticosteroid-binding globulin
+Furosemide	CARRIED_BY	Albumin
+Furosemide	CARRIED_BY	Thyroxine-binding globulin
+Tamsulosin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Lamivudine	CARRIED_BY	Albumin
+Flurbiprofen	CARRIED_BY	Albumin
+Apomorphine	CARRIED_BY	Albumin
+Norethisterone	CARRIED_BY	Albumin
+Norethisterone	CARRIED_BY	Sex hormone-binding globulin
+Nateglinide	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Nateglinide	CARRIED_BY	Albumin
+Risperidone	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Risperidone	CARRIED_BY	Albumin
+Meclizine	CARRIED_BY	Albumin
+Hydrocortisone	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone	CARRIED_BY	Sex hormone-binding globulin
+Gadobenic acid	CARRIED_BY	Albumin
+Zileuton	CARRIED_BY	Albumin
+Carbinoxamine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Carbinoxamine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Etodolac	CARRIED_BY	Albumin
+Isoflurane	CARRIED_BY	Albumin
+Ethotoin	CARRIED_BY	Thyroxine-binding globulin
+Tretinoin	CARRIED_BY	Albumin
+Clopidogrel	CARRIED_BY	Albumin
+Tetracycline	CARRIED_BY	Albumin
+Telaprevir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Telaprevir	CARRIED_BY	Albumin
+Glyphosate	CARRIED_BY	Albumin
+Arachidonic Acid	CARRIED_BY	Albumin
+Arachidonic Acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+Arachidonic Acid	CARRIED_BY	Fatty acid-binding protein, intestinal
+Estrone sulfate	CARRIED_BY	Albumin
+Estrone sulfate	CARRIED_BY	Sex hormone-binding globulin
+1-Hexadecanosulfonic Acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+Dibenzofuran-4,6-Dicarboxylic Acid	CARRIED_BY	Transthyretin
+Tetraiodothyroacetic acid	CARRIED_BY	Transthyretin
+Stanolone	CARRIED_BY	Sex hormone-binding globulin
+2-HYDROXY-3,5-DIIODOBENZOIC ACID	CARRIED_BY	Transthyretin
+Camptothecin	CARRIED_BY	Albumin
+Gallium citrate Ga-67	CARRIED_BY	Ferritin heavy chain
+Gallium citrate Ga-67	CARRIED_BY	Ferritin light chain
+Gallium citrate Ga-67	CARRIED_BY	Serotransferrin
+Gallium citrate Ga-67	CARRIED_BY	Lactotransferrin
+Mangafodipir	CARRIED_BY	Alpha-2-macroglobulin
+Mangafodipir	CARRIED_BY	Albumin
+Pralatrexate	CARRIED_BY	Albumin
+Propanoic acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+Palmitic Acid	CARRIED_BY	Albumin
+Palmitic Acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+Palmitic Acid	CARRIED_BY	Fatty acid-binding protein 5
+Palmitic Acid	CARRIED_BY	Fatty acid-binding protein, heart
+Palmitic Acid	CARRIED_BY	Fatty acid-binding protein, intestinal
+CRx-119	CARRIED_BY	Corticosteroid-binding globulin
+Irinotecan	CARRIED_BY	Albumin
+Olopatadine	CARRIED_BY	Albumin
+Alprostadil	CARRIED_BY	Albumin
+Hydroflumethiazide	CARRIED_BY	Albumin
+Oxcarbazepine	CARRIED_BY	Albumin
+Estradiol	CARRIED_BY	Albumin
+Estradiol	CARRIED_BY	Fatty acid-binding protein, intestinal
+Estradiol	CARRIED_BY	Sex hormone-binding globulin
+Mefenamic acid	CARRIED_BY	Albumin
+Acyclovir	CARRIED_BY	Albumin
+Naproxen	CARRIED_BY	Albumin
+Tripelennamine	CARRIED_BY	Albumin
+Sulfasalazine	CARRIED_BY	Albumin
+Alfentanil	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Alfentanil	CARRIED_BY	Albumin
+Indapamide	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Indapamide	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Indapamide	CARRIED_BY	Albumin
+Fentanyl	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Fentanyl	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Fentanyl	CARRIED_BY	Albumin
+Meloxicam	CARRIED_BY	Albumin
+Sodium lauryl sulfate	CARRIED_BY	Albumin
+Propofol	CARRIED_BY	Albumin
+2-{[2-Oxo-2-(1-piperidinyl)ethyl]sulfanyl}-6-(trifluoromethyl)-4(1H)-pyrimidinone	CARRIED_BY	Fatty acid-binding protein, adipocyte
+Lauric acid	CARRIED_BY	Albumin
+Iodipamide	CARRIED_BY	Albumin
+2-[(3,5-Dichloro-4-trioxidanylphenyl)amino]benzoic acid	CARRIED_BY	Transthyretin
+Dantron	CARRIED_BY	Albumin
+Nomifensine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Carbazole Butanoic Acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+5-Alpha-Androstane-3-Beta,17beta-Diol	CARRIED_BY	Sex hormone-binding globulin
+N-Ethylretinamide	CARRIED_BY	Retinol-binding protein 4
+5alpha-androstane-3beta,17alpha-diol	CARRIED_BY	Sex hormone-binding globulin
+3-[({(1E)-[2-(trifluoromethyl)phenyl]methylidene}amino)oxy]propanoic acid	CARRIED_BY	Transthyretin
+6,4'-Dihydroxy-3-Methyl-3',5'-Dibromoflavone	CARRIED_BY	Transthyretin
+D-glucose	CARRIED_BY	Albumin
+Diazepam	CARRIED_BY	Albumin
+Oxazepam	CARRIED_BY	Albumin
+Clofazimine	CARRIED_BY	Albumin
+Flurandrenolide	CARRIED_BY	Corticosteroid-binding globulin
+Cysteamine	CARRIED_BY	Albumin
+Perphenazine	CARRIED_BY	Albumin
+Pseudoephedrine	CARRIED_BY	Albumin
+Temozolomide	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Temozolomide	CARRIED_BY	Albumin
+Terbinafine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Terbinafine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Terbinafine	CARRIED_BY	Albumin
+Drostanolone	CARRIED_BY	Sex hormone-binding globulin
+Prednisolone	CARRIED_BY	Albumin
+Prednisolone	CARRIED_BY	Corticosteroid-binding globulin
+Diflunisal	CARRIED_BY	Albumin
+Diflunisal	CARRIED_BY	Transthyretin
+Tacrolimus	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Tacrolimus	CARRIED_BY	Albumin
+Suprofen	CARRIED_BY	Albumin
+Sirolimus	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Sirolimus	CARRIED_BY	Albumin
+Sirolimus	CARRIED_BY	Apolipoprotein A-I
+Sirolimus	CARRIED_BY	Apolipoprotein A-II
+Sirolimus	CARRIED_BY	Apolipoprotein A-IV
+Sirolimus	CARRIED_BY	Apolipoprotein(a)
+Sirolimus	CARRIED_BY	Apolipoprotein B-100
+Sirolimus	CARRIED_BY	Apolipoprotein C-II
+Sirolimus	CARRIED_BY	Apolipoprotein C-III
+Sirolimus	CARRIED_BY	Apolipoprotein D
+Sirolimus	CARRIED_BY	Apolipoprotein E
+Sirolimus	CARRIED_BY	Apolipoprotein L1
+Sirolimus	CARRIED_BY	Apolipoprotein M
+Chlorhexidine	CARRIED_BY	Albumin
+Emtricitabine	CARRIED_BY	Albumin
+Quinapril	CARRIED_BY	Albumin
+Iron Dextran	CARRIED_BY	Serotransferrin
+Rimexolone	CARRIED_BY	Corticosteroid-binding globulin
+Didanosine	CARRIED_BY	Albumin
+Etacrynic acid	CARRIED_BY	Albumin
+Cocaine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Cocaine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Quinidine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Quinidine	CARRIED_BY	Albumin
+Repaglinide	CARRIED_BY	Albumin
+Cyclobenzaprine	CARRIED_BY	Albumin
+Etretinate	CARRIED_BY	Cellular retinoic acid-binding protein 1
+Metacycline	CARRIED_BY	Albumin
+Maprotiline	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Salicylic acid	CARRIED_BY	Albumin
+Salmeterol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Salmeterol	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Salmeterol	CARRIED_BY	Albumin
+Meclofenamic acid	CARRIED_BY	Thyroxine-binding globulin
+Zalcitabine	CARRIED_BY	Albumin
+Phenprocoumon	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Phenprocoumon	CARRIED_BY	Albumin
+Fexofenadine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Fexofenadine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Fexofenadine	CARRIED_BY	Albumin
+Isoniazid	CARRIED_BY	Albumin
+Zomepirac	CARRIED_BY	Albumin
+Roxadustat	CARRIED_BY	Albumin
+Febuxostat	CARRIED_BY	Albumin
+Dronedarone	CARRIED_BY	Albumin
+Nebivolol	CARRIED_BY	Albumin
+Abiraterone	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Abiraterone	CARRIED_BY	Albumin
+2-(2,6-DICHLOROPHENYL)-1,3-BENZOXAZOLE-6-CARBOXYLIC ACID	CARRIED_BY	Transthyretin
+2',6'-DIFLUOROBIPHENYL-4-CARBOXYLIC ACID	CARRIED_BY	Transthyretin
+2-[({4-[2-(trifluoromethyl)phenyl]piperidin-1-yl}carbonyl)amino]benzoic acid	CARRIED_BY	Retinol-binding protein 4
+Oritavancin	CARRIED_BY	Albumin
+Tamibarotene	CARRIED_BY	Cellular retinoic acid-binding protein 1
+Pirfenidone	CARRIED_BY	Albumin
+Norgestimate	CARRIED_BY	Albumin
+Norgestimate	CARRIED_BY	Sex hormone-binding globulin
+Methylprednisolone	CARRIED_BY	Albumin
+Pindolol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Pindolol	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Methyldopa	CARRIED_BY	Albumin
+Ethinylestradiol	CARRIED_BY	Albumin
+Ethinylestradiol	CARRIED_BY	Sex hormone-binding globulin
+Isotretinoin	CARRIED_BY	Albumin
+Formoterol	CARRIED_BY	Albumin
+Glycopyrronium	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Glycopyrronium	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Glycopyrronium	CARRIED_BY	Albumin
+Azathioprine	CARRIED_BY	Albumin
+Auranofin	CARRIED_BY	Albumin
+Doxorubicin	CARRIED_BY	Albumin
+Hydrochlorothiazide	CARRIED_BY	Albumin
+Hydroxyurea	CARRIED_BY	Albumin
+Letrozole	CARRIED_BY	Albumin
+Ketoprofen	CARRIED_BY	Albumin
+Clobetasol propionate	CARRIED_BY	Albumin
+Clobetasol propionate	CARRIED_BY	Corticosteroid-binding globulin
+Sulfamethoxazole	CARRIED_BY	Albumin
+Glyburide	CARRIED_BY	Albumin
+MD-0727	CARRIED_BY	Apolipoprotein A-I
+Quercetin	CARRIED_BY	Albumin
+Oleic Acid	CARRIED_BY	Albumin
+Oleic Acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+Oleic Acid	CARRIED_BY	Fatty acid-binding protein, brain
+Oleic Acid	CARRIED_BY	Fatty acid-binding protein, heart
+Oleic Acid	CARRIED_BY	Fatty acid-binding protein, liver
+Oleic Acid	CARRIED_BY	Vitamin D-binding protein
+2',4'-DICHLORO-4-HYDROXY-1,1'-BIPHENYL-3-CARBOXYLIC ACID	CARRIED_BY	Transthyretin
+5-(3-carbamoylbenzyl)-5,6,7,8,9,10-hexahydrocyclohepta[b]indole-4-carboxylic acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+METHYL N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINATE	CARRIED_BY	Transthyretin
+N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINE	CARRIED_BY	Transthyretin
+Indoxyl sulfate	CARRIED_BY	Albumin
+Fenretinide	CARRIED_BY	Retinol-binding protein 4
+1-Naphthylamine-5-sulfonic acid	CARRIED_BY	Transthyretin
+(2S)-3-[(9H-fluoren-9-ylideneamino)oxy]-2-methylpropanoic acid	CARRIED_BY	Transthyretin
+Butenoic Acid	CARRIED_BY	Fatty acid-binding protein, liver
+1-{2-[2-(2-Methoxyethoxy)Ethoxy]Ethoxy}-4-(1,1,3,3-Tetramethylbutyl)Benzene	CARRIED_BY	Alpha-tocopherol transfer protein
+Dolutegravir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Dolutegravir	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Dolutegravir	CARRIED_BY	Albumin
+Riociguat	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Riociguat	CARRIED_BY	Albumin
+Macitentan	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Macitentan	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Macitentan	CARRIED_BY	Albumin
+Chlorcyclizine	CARRIED_BY	Albumin
+3-[(9H-fluoren-9-ylideneamino)oxy]propanoic acid	CARRIED_BY	Transthyretin
+3-({[(1Z)-(2-methoxyphenyl)methylidene]amino}oxy)propanoic acid	CARRIED_BY	Transthyretin
+9-benzyl-2,3,4,9-tetrahydro-1H-carbazole-8-carboxylic acid	CARRIED_BY	Fatty acid-binding protein, adipocyte
+Cenobamate	CARRIED_BY	Albumin
+Sulfadimethoxine	CARRIED_BY	Albumin
+Acetylcysteine	CARRIED_BY	Albumin
+2,6-dimethyl-4-[(E)-2-phenylethenyl]phenol	CARRIED_BY	Transthyretin
+2,6-dibromo-4-[(E)-2-phenylethenyl]phenol	CARRIED_BY	Transthyretin
+3,5-dibromobiphenyl-4-ol	CARRIED_BY	Transthyretin
+2,6-dibromo-4-phenoxyphenol	CARRIED_BY	Transthyretin
+N-(3,5-dibromo-4-hydroxyphenyl)benzamide	CARRIED_BY	Transthyretin
+1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohexene	CARRIED_BY	Cellular retinoic acid-binding protein 2
+Tanespimycin	CARRIED_BY	Albumin
+Elafibranor	CARRIED_BY	Albumin
+NRP409	CARRIED_BY	Thyroxine-binding globulin
+NRP409	CARRIED_BY	Transthyretin
+Cobimetinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Gallium nitrate	CARRIED_BY	Serotransferrin
+Azapropazone	CARRIED_BY	Albumin
+Etofenamate	CARRIED_BY	Thyroxine-binding globulin
+Diosmin	CARRIED_BY	Albumin
+Ibrutinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ibrutinib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Ibrutinib	CARRIED_BY	Albumin
+Trimetazidine	CARRIED_BY	Albumin
+Tibolone	CARRIED_BY	Albumin
+Palbociclib	CARRIED_BY	Albumin
+Olaparib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Olaparib	CARRIED_BY	Albumin
+Umeclidinium	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Umeclidinium	CARRIED_BY	Albumin
+Nintedanib	CARRIED_BY	Albumin
+Potassium alum	CARRIED_BY	Albumin
+Chlortetracycline	CARRIED_BY	Albumin
+Thyroid, porcine	CARRIED_BY	Albumin
+Thyroid, porcine	CARRIED_BY	Thyroxine-binding globulin
+Thyroid, porcine	CARRIED_BY	Transthyretin
+Rufinamide	CARRIED_BY	Albumin
+Prasugrel	CARRIED_BY	Albumin
+Ferumoxytol	CARRIED_BY	Serotransferrin
+Asenapine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Asenapine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Asenapine	CARRIED_BY	Albumin
+Maribavir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Maribavir	CARRIED_BY	Albumin
+Avanafil	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Avanafil	CARRIED_BY	Albumin
+3-CARBOXY-4-METHYL-5-PROPYL-2-FURANPROPIONIC	CARRIED_BY	Albumin
+Vandetanib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Vandetanib	CARRIED_BY	Albumin
+Fx-1006A	CARRIED_BY	Transthyretin
+Iodine	CARRIED_BY	Albumin
+Iodine	CARRIED_BY	Thyroglobulin
+Levocetirizine	CARRIED_BY	Albumin
+Simeprevir	CARRIED_BY	Albumin
+Oxymetholone	CARRIED_BY	Albumin
+Oxymetholone	CARRIED_BY	Sex hormone-binding globulin
+Medrogestone	CARRIED_BY	Albumin
+Medrogestone	CARRIED_BY	Corticosteroid-binding globulin
+Medrogestone	CARRIED_BY	Sex hormone-binding globulin
+Brexpiprazole	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Brexpiprazole	CARRIED_BY	Albumin
+Copper	CARRIED_BY	Alpha-2-macroglobulin
+Copper	CARRIED_BY	Copper transport protein ATOX1
+Copper	CARRIED_BY	Albumin
+Copper	CARRIED_BY	Copper chaperone for superoxide dismutase
+Copper	CARRIED_BY	Ceruloplasmin
+Copper	CARRIED_BY	Cytochrome c oxidase copper chaperone
+Copper	CARRIED_BY	Hephaestin
+Copper	CARRIED_BY	Coagulation factor V
+Copper	CARRIED_BY	Coagulation factor VIII
+Copper	CARRIED_BY	Metallothionein-1A
+Copper	CARRIED_BY	Metallothionein-1B
+Copper	CARRIED_BY	Putative metallothionein MT1DP
+Copper	CARRIED_BY	Metallothionein-1E
+Copper	CARRIED_BY	Metallothionein-1F
+Copper	CARRIED_BY	Metallothionein-1G
+Copper	CARRIED_BY	Metallothionein-1H
+Copper	CARRIED_BY	Metallothionein-1L
+Copper	CARRIED_BY	Metallothionein-1M
+Copper	CARRIED_BY	Metallothionein-1X
+Copper	CARRIED_BY	Metallothionein-2
+Copper	CARRIED_BY	Metallothionein-3
+Copper	CARRIED_BY	Metallothionein-4
+Copper	CARRIED_BY	Metallothionein 1H-like protein 1
+Copper	CARRIED_BY	Metal regulatory transcription factor 1
+Copper	CARRIED_BY	Tesmin
+Technetium Tc-99m oxidronate	CARRIED_BY	Albumin
+Oxygen	CARRIED_BY	Hemoglobin subunit alpha
+Oxygen	CARRIED_BY	Hemoglobin subunit beta
+Technetium Tc-99m tetrofosmin	CARRIED_BY	ATP-dependent translocase ABCB1
+Lorpiprazole	CARRIED_BY	Albumin
+Arotinolol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Arotinolol	CARRIED_BY	Albumin
+Dexibuprofen	CARRIED_BY	Albumin
+Blonanserin	CARRIED_BY	Albumin
+Aranidipine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Aranidipine	CARRIED_BY	Albumin
+Lacidipine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Lacidipine	CARRIED_BY	Albumin
+Levamlodipine	CARRIED_BY	Albumin
+Methylene blue	CARRIED_BY	Albumin
+4-(1,3-BENZOXAZOL-2-YL)-2,6-DIMETHYLPHENOL	CARRIED_BY	Transthyretin
+4-(1,3-BENZOXAZOL-2-YL)-2,6-DIBROMOPHENOL	CARRIED_BY	Transthyretin
+2-(3,5-DIMETHYLPHENYL)-1,3-BENZOXAZOLE	CARRIED_BY	Transthyretin
+Myristic acid	CARRIED_BY	Albumin
+Myristic acid	CARRIED_BY	Apolipoprotein M
+Myristic acid	CARRIED_BY	Fatty acid-binding protein, intestinal
+Chloramphenicol succinate	CARRIED_BY	Albumin
+Pentabromophenol	CARRIED_BY	Transthyretin
+Infigratinib	CARRIED_BY	Apolipoprotein A-I
+Infigratinib	CARRIED_BY	Apolipoprotein A-II
+Infigratinib	CARRIED_BY	Apolipoprotein A-IV
+Infigratinib	CARRIED_BY	Apolipoprotein(a)
+Infigratinib	CARRIED_BY	Apolipoprotein B-100
+Infigratinib	CARRIED_BY	Apolipoprotein C-II
+Infigratinib	CARRIED_BY	Apolipoprotein C-III
+Infigratinib	CARRIED_BY	Apolipoprotein D
+Infigratinib	CARRIED_BY	Apolipoprotein E
+Infigratinib	CARRIED_BY	Apolipoprotein L1
+Infigratinib	CARRIED_BY	Apolipoprotein M
+Apalutamide	CARRIED_BY	Albumin
+Delafloxacin	CARRIED_BY	Albumin
+Dacomitinib	CARRIED_BY	Albumin
+N-(3,5-dibromo-4-hydroxyphenyl)-2,6-dimethylbenzamide	CARRIED_BY	Transthyretin
+2,5-dichloro-N-(3,5-dibromo-4-hydroxyphenyl)benzamide	CARRIED_BY	Transthyretin
+N-(3,5-dibromo-4-hydroxyphenyl)-4-hydroxy-3,5-dimethylbenzamide	CARRIED_BY	Transthyretin
+3',5'-DIFLUOROBIPHENYL-4-CARBOXYLIC ACID	CARRIED_BY	Transthyretin
+Tegafur	CARRIED_BY	Thyroxine-binding globulin
+Imidafenacin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Imidafenacin	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Imidafenacin	CARRIED_BY	Albumin
+Ubidecarenone	CARRIED_BY	Low-density lipoprotein receptor
+Ubidecarenone	CARRIED_BY	Very low-density lipoprotein receptor
+Artesunate	CARRIED_BY	Albumin
+Lumacaftor	CARRIED_BY	Albumin
+Tenofovir alafenamide	CARRIED_BY	Albumin
+Ro 12-7310	CARRIED_BY	Cellular retinoic acid-binding protein 2
+6-(2,3,4,5,6,7-HEXAHYDRO-2,4,4-TRIMETHYL-1-METYLENEINDEN-2-YL)-3-METHYLHEXA-2,4-DIENOIC ACID	CARRIED_BY	Cellular retinoic acid-binding protein 2
+(R)-warfarin	CARRIED_BY	Albumin
+Binimetinib	CARRIED_BY	Albumin
+Glasdegib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Glasdegib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Glasdegib	CARRIED_BY	Albumin
+Abemaciclib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Abemaciclib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Abemaciclib	CARRIED_BY	Albumin
+Nirogacestat	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Nirogacestat	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Nirogacestat	CARRIED_BY	Albumin
+Telotristat ethyl	CARRIED_BY	Broad substrate specificity ATP-binding cassette transporter ABCG2
+Prucalopride	CARRIED_BY	Albumin
+Synthetic Conjugated Estrogens, A	CARRIED_BY	Thyroxine-binding globulin
+Synthetic Conjugated Estrogens, B	CARRIED_BY	Thyroxine-binding globulin
+Antihemophilic factor (recombinant), PEGylated	CARRIED_BY	von Willebrand factor
+Iopodic acid	CARRIED_BY	Albumin
+Acetrizoic acid	CARRIED_BY	Albumin
+Propiolactone	CARRIED_BY	Albumin
+Esterified estrogens	CARRIED_BY	Thyroxine-binding globulin
+Meprednisone	CARRIED_BY	Albumin
+Potassium perchlorate	CARRIED_BY	Albumin
+Hydroquinone	CARRIED_BY	Albumin
+Calcium citrate	CARRIED_BY	Protein S100-G
+Calcium citrate	CARRIED_BY	Albumin
+Calcium citrate	CARRIED_BY	Calbindin
+Allantoin	CARRIED_BY	Thyroxine-binding globulin
+Opium	CARRIED_BY	Beta-2-microglobulin
+Opium	CARRIED_BY	Albumin
+Cupric oxide	CARRIED_BY	Albumin
+Cupric oxide	CARRIED_BY	Ceruloplasmin
+Chromium	CARRIED_BY	Serotransferrin
+Butamben	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Butamben	CARRIED_BY	Albumin
+Rose bengal	CARRIED_BY	Albumin
+Rose bengal	CARRIED_BY	Serotransferrin
+Rose bengal	CARRIED_BY	Lactotransferrin
+Arbutin	CARRIED_BY	Albumin
+Isavuconazonium	CARRIED_BY	Albumin
+Liraglutide	CARRIED_BY	Albumin
+Dabigatran etexilate	CARRIED_BY	Albumin
+Gilteritinib	CARRIED_BY	Albumin
+Erdafitinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Erdafitinib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+3',5'-DIBROMO-2',4,4',6'-TETRAHYDROXY AURONE	CARRIED_BY	Transthyretin
+Dexchlorpheniramine maleate	CARRIED_BY	Solute carrier family 22 member 1
+Dexchlorpheniramine maleate	CARRIED_BY	Solute carrier family 22 member 2
+Insulin degludec	CARRIED_BY	Albumin
+Omega-3-carboxylic acids	CARRIED_BY	Phosphatidylcholine transfer protein
+Omega-3-carboxylic acids	CARRIED_BY	Phosphatidylethanolamine-binding protein 1
+(5R)-5-(4-{[(2R)-6-HYDROXY-2,5,7,8-TETRAMETHYL-3,4-DIHYDRO-2H-CHROMEN-2-YL]METHOXY}BENZYL)-1,3-THIAZOLIDINE-2,4-DIONE	CARRIED_BY	Fatty acid-binding protein, adipocyte
+R,S-Warfarin alcohol	CARRIED_BY	Albumin
+S,R-Warfarin alcohol	CARRIED_BY	Albumin
+Tocopherol	CARRIED_BY	Low-density lipoprotein receptor
+Tocopherol	CARRIED_BY	Very low-density lipoprotein receptor
+Darolutamide	CARRIED_BY	Albumin
+Pexidartinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Pexidartinib	CARRIED_BY	Albumin
+Hypericin	CARRIED_BY	Albumin
+Gadofosveset trisodium	CARRIED_BY	Albumin
+Methyltestosterone	CARRIED_BY	Albumin
+Methyltestosterone	CARRIED_BY	Sex hormone-binding globulin
+Fospropofol	CARRIED_BY	Albumin
+Beta carotene	CARRIED_BY	Retinol-binding protein 1
+Beta carotene	CARRIED_BY	Retinol-binding protein 2
+Beta carotene	CARRIED_BY	Retinol-binding protein 3
+Beta carotene	CARRIED_BY	Retinol-binding protein 4
+Beta carotene	CARRIED_BY	Retinol-binding protein 5
+Beta carotene	CARRIED_BY	Very low-density lipoprotein receptor
+Manganese cation	CARRIED_BY	Albumin
+Manganese cation	CARRIED_BY	Ceruloplasmin
+Manganese cation	CARRIED_BY	Serotransferrin
+Cabazitaxel	CARRIED_BY	Albumin
+Cabazitaxel	CARRIED_BY	Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1
+Cabazitaxel	CARRIED_BY	Low-density lipoprotein receptor
+Cabazitaxel	CARRIED_BY	Very low-density lipoprotein receptor
+Estetrol	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Estetrol	CARRIED_BY	Albumin
+Edaravone	CARRIED_BY	Albumin
+Vadadustat	CARRIED_BY	Albumin
+Nandrolone decanoate	CARRIED_BY	Sex hormone-binding globulin
+Triflusal	CARRIED_BY	Albumin
+Ticagrelor	CARRIED_BY	Albumin
+Ivacaftor	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ivacaftor	CARRIED_BY	Albumin
+Azilsartan medoxomil	CARRIED_BY	Albumin
+Vismodegib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Vismodegib	CARRIED_BY	Albumin
+Pitavastatin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Pitavastatin	CARRIED_BY	Albumin
+Rilpivirine	CARRIED_BY	Albumin
+Crizotinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Crizotinib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Crizotinib	CARRIED_BY	Albumin
+Ulipristal	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ulipristal	CARRIED_BY	Albumin
+Abrocitinib	CARRIED_BY	Albumin
+Calcium Phosphate	CARRIED_BY	Protein S100-G
+Calcium Phosphate	CARRIED_BY	Albumin
+Calcium Phosphate	CARRIED_BY	Calbindin
+Dichlorvos	CARRIED_BY	Albumin
+alpha-Tocopherol succinate	CARRIED_BY	Alpha-tocopherol transfer protein
+D-alpha-Tocopherol acetate	CARRIED_BY	Alpha-tocopherol transfer protein
+alpha-Tocopherol acetate	CARRIED_BY	Low-density lipoprotein receptor
+alpha-Tocopherol acetate	CARRIED_BY	Very low-density lipoprotein receptor
+Pentetic acid	CARRIED_BY	Alpha-1-antitrypsin
+Tenofovir	CARRIED_BY	Albumin
+Grazoprevir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Grazoprevir	CARRIED_BY	Albumin
+Thimerosal	CARRIED_BY	Albumin
+Delamanid	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Delamanid	CARRIED_BY	Albumin
+Vinflunine	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Vinflunine	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Vinflunine	CARRIED_BY	Albumin
+Pitolisant	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Pitolisant	CARRIED_BY	Albumin
+Triheptanoin	CARRIED_BY	Albumin
+Human interferon beta	CARRIED_BY	Albumin
+Aripiprazole lauroxil	CARRIED_BY	Albumin
+Ormeloxifene	CARRIED_BY	Albumin
+Remimazolam	CARRIED_BY	Albumin
+Liothyronine I-131	CARRIED_BY	Thyroxine-binding globulin
+Omadacycline	CARRIED_BY	Albumin
+Favipiravir	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Favipiravir	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Favipiravir	CARRIED_BY	Albumin
+Ibrexafungerp	CARRIED_BY	Albumin
+Copanlisib	CARRIED_BY	Albumin
+Selumetinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Selumetinib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Selumetinib	CARRIED_BY	Albumin
+Acalabrutinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Acalabrutinib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Acalabrutinib	CARRIED_BY	Albumin
+Encorafenib	CARRIED_BY	Albumin
+Vonoprazan	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Vonoprazan	CARRIED_BY	Albumin
+Neocitrullamon	CARRIED_BY	Thyroxine-binding globulin
+Edoxudine	CARRIED_BY	Albumin
+Calcium phosphate dihydrate	CARRIED_BY	Protein S100-G
+Calcium phosphate dihydrate	CARRIED_BY	Albumin
+Calcium phosphate dihydrate	CARRIED_BY	Calbindin
+Pranoprofen	CARRIED_BY	Albumin
+Aprocitentan	CARRIED_BY	Albumin
+Somapacitan	CARRIED_BY	Albumin
+Tepotinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Tepotinib	CARRIED_BY	Albumin
+Futibatinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Futibatinib	CARRIED_BY	Albumin
+Linzagolix	CARRIED_BY	Albumin
+Magnesium	CARRIED_BY	Albumin
+Aluminium phosphate	CARRIED_BY	Albumin
+Aluminum acetate	CARRIED_BY	Albumin
+Tetraferric tricitrate decahydrate	CARRIED_BY	Calreticulin
+Tetraferric tricitrate decahydrate	CARRIED_BY	Integrin beta-3
+Tetraferric tricitrate decahydrate	CARRIED_BY	Serotransferrin
+Chromic citrate	CARRIED_BY	Serotransferrin
+Chromic nitrate	CARRIED_BY	Serotransferrin
+Chromium gluconate	CARRIED_BY	Serotransferrin
+Chromium nicotinate	CARRIED_BY	Serotransferrin
+Chromous sulfate	CARRIED_BY	Serotransferrin
+Zinc chloride	CARRIED_BY	Albumin
+Hydrocortisone aceponate	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone aceponate	CARRIED_BY	Sex hormone-binding globulin
+Hydrocortisone acetate	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone acetate	CARRIED_BY	Sex hormone-binding globulin
+Hydrocortisone butyrate	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone butyrate	CARRIED_BY	Sex hormone-binding globulin
+Hydrocortisone cypionate	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone cypionate	CARRIED_BY	Sex hormone-binding globulin
+Hydrocortisone phosphate	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone phosphate	CARRIED_BY	Sex hormone-binding globulin
+Hydrocortisone probutate	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone probutate	CARRIED_BY	Sex hormone-binding globulin
+Hydrocortisone valerate	CARRIED_BY	Corticosteroid-binding globulin
+Hydrocortisone valerate	CARRIED_BY	Sex hormone-binding globulin
+Zinc sulfate, unspecified form	CARRIED_BY	Albumin
+Lurbinectedin	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Lurbinectedin	CARRIED_BY	Albumin
+Tirzepatide	CARRIED_BY	Albumin
+Glycyrrhizic acid	CARRIED_BY	Aldo-keto reductase family 1 member C2
+Glycyrrhizic acid	CARRIED_BY	Aldo-keto reductase family 1 member C3
+Glycyrrhizic acid	CARRIED_BY	Aldo-keto reductase family 1 member C4
+Glycyrrhizic acid	CARRIED_BY	Albumin
+Patisiran	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Patisiran	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Patisiran	CARRIED_BY	Albumin
+Prednisolone phosphate	CARRIED_BY	Albumin
+Prednisolone phosphate	CARRIED_BY	Corticosteroid-binding globulin
+Dexamethasone acetate	CARRIED_BY	Albumin
+Betamethasone phosphate	CARRIED_BY	Albumin
+Betamethasone phosphate	CARRIED_BY	Corticosteroid-binding globulin
+Finerenone	CARRIED_BY	Albumin
+Bulevirtide	CARRIED_BY	Albumin
+Risdiplam	CARRIED_BY	Albumin
+Iptacopan	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Iptacopan	CARRIED_BY	Albumin
+Grapiprant	CARRIED_BY	Albumin
+Quizartinib	CARRIED_BY	Albumin
+Ripretinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Ripretinib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Ripretinib	CARRIED_BY	Albumin
+Cefiderocol	CARRIED_BY	Albumin
+Elexacaftor	CARRIED_BY	Albumin
+Vericiguat	CARRIED_BY	Albumin
+Colchiceine	CARRIED_BY	Albumin
+Revumenib	CARRIED_BY	Albumin
+Prednisolone acetate	CARRIED_BY	Albumin
+Prednisolone acetate	CARRIED_BY	Corticosteroid-binding globulin
+Padeliporfin	CARRIED_BY	Albumin
+Cabotegravir	CARRIED_BY	Albumin
+Rifamycin	CARRIED_BY	Albumin
+Istradefylline	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Istradefylline	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Istradefylline	CARRIED_BY	Albumin
+Niraparib	CARRIED_BY	Albumin
+Fostemsavir	CARRIED_BY	Albumin
+Tivozanib	CARRIED_BY	Albumin
+Nifurtimox	CARRIED_BY	Albumin
+Ertugliflozin	CARRIED_BY	Albumin
+Neratinib	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Neratinib	CARRIED_BY	Alpha-1-acid glycoprotein 2
+Neratinib	CARRIED_BY	Albumin
+Relugolix	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Relugolix	CARRIED_BY	Albumin
+Revefenacin	CARRIED_BY	Albumin
+Fluoroestradiol F-18	CARRIED_BY	Albumin
+Fluoroestradiol F-18	CARRIED_BY	Sex hormone-binding globulin
+Insulin icodec	CARRIED_BY	Albumin
+Vutrisiran	CARRIED_BY	Albumin
+Belumosudil	CARRIED_BY	Alpha-1-acid glycoprotein 1
+Belumosudil	CARRIED_BY	Albumin
+Lumasiran	CARRIED_BY	Albumin
+Fluticasone	CARRIED_BY	Corticosteroid-binding globulin
+Fluticasone	CARRIED_BY	ATP-dependent translocase ABCB1
+Fluticasone	CARRIED_BY	Solute carrier organic anion transporter family member 1B1
+Enasidenib	CARRIED_BY	Albumin
+Bismuth subgallate	CARRIED_BY	Albumin
+Semaglutide	CARRIED_BY	Albumin
+ciprodex	CARRIED_BY	Albumin
+invanz	CARRIED_BY	Albumin
+lansoprazole, amoxicillin and clarithromycin	CARRIED_BY	Albumin
+medroxyprogesterone	CARRIED_BY	Albumin
+rifampicin	CARRIED_BY	Albumin
+rifampicin	CARRIED_BY	Alpha-1-acid glycoprotein 1

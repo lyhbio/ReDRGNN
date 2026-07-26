@@ -1,0 +1,319 @@
+head_name	relation	tail_name
+Regorafenib	METABOLIZED_BY	glucuronosyltransferase
+Procainamide	METABOLIZED_BY	arylamine N-acetyltransferase
+Abacavir	METABOLIZED_BY	alcohol dehydrogenase
+Ibuprofen	METABOLIZED_BY	palmitoyl-CoA hydrolase
+Ibuprofen	METABOLIZED_BY	alpha-methylacyl-CoA racemase
+Benzylpenicillin	METABOLIZED_BY	beta-lactamase
+Amoxicillin	METABOLIZED_BY	beta-lactamase
+Melatonin	METABOLIZED_BY	indoleamine 2,3-dioxygenase
+Melatonin	METABOLIZED_BY	acetylserotonin O-methyltransferase
+Glipizide	METABOLIZED_BY	unspecific monooxygenase
+Clonazepam	METABOLIZED_BY	6,7-dihydropteridine reductase
+Atazanavir	METABOLIZED_BY	unspecific monooxygenase
+Carvedilol	METABOLIZED_BY	unspecific monooxygenase
+Micafungin	METABOLIZED_BY	cerebroside-sulfatase
+Amifostine	METABOLIZED_BY	alkaline phosphatase
+Phenylalanine	METABOLIZED_BY	phenylalanine--tRNA ligase
+Choline	METABOLIZED_BY	choline kinase
+Ascorbic acid	METABOLIZED_BY	procollagen-proline 4-dioxygenase
+Ascorbic acid	METABOLIZED_BY	hypoxia-inducible factor-proline dioxygenase
+Spermine	METABOLIZED_BY	N(1)-acetylpolyamine oxidase
+Spermine	METABOLIZED_BY	spermine oxidase
+Adenosine phosphate	METABOLIZED_BY	adenine phosphoribosyltransferase
+alpha-Linolenic acid	METABOLIZED_BY	carboxylesterase
+Methionine	METABOLIZED_BY	peptide-methionine (S)-S-oxide reductase
+Methionine	METABOLIZED_BY	peptide-methionine (R)-S-oxide reductase
+Methionine	METABOLIZED_BY	homoserine O-succinyltransferase
+Methionine	METABOLIZED_BY	methionine adenosyltransferase
+Methionine	METABOLIZED_BY	methionine--tRNA ligase
+Riboflavin	METABOLIZED_BY	NAD(P)H dehydrogenase (quinone)
+Riboflavin	METABOLIZED_BY	peroxidase
+Riboflavin	METABOLIZED_BY	acid phosphatase
+Glutathione	METABOLIZED_BY	glutathione peroxidase
+Glutathione	METABOLIZED_BY	glutathione transferase
+Glutathione	METABOLIZED_BY	glutathione-specific gamma-glutamylcyclotransferase
+Glutathione	METABOLIZED_BY	gamma-glutamylcyclotransferase
+Glutathione	METABOLIZED_BY	glutathione gamma-glutamate hydrolase
+Glycine	METABOLIZED_BY	5-aminolevulinate synthase
+Calcifediol	METABOLIZED_BY	vitamin D3 24-hydroxylase
+Calcifediol	METABOLIZED_BY	calcidiol 1-monooxygenase
+Leucine	METABOLIZED_BY	leucine--tRNA ligase
+Tryptophan	METABOLIZED_BY	tryptophan 2,3-dioxygenase
+Tryptophan	METABOLIZED_BY	indoleamine 2,3-dioxygenase
+Tryptophan	METABOLIZED_BY	tryptophan 5-monooxygenase
+Tryptophan	METABOLIZED_BY	tryptophan--tRNA ligase
+Ergocalciferol	METABOLIZED_BY	vitamin D 25-hydroxylase
+NADH	METABOLIZED_BY	3-hydroxyacyl-CoA dehydrogenase
+NADH	METABOLIZED_BY	cytochrome-b5 reductase
+NADH	METABOLIZED_BY	NADP-retinol dehydrogenase
+Folic acid	METABOLIZED_BY	dihydrofolate reductase
+Valine	METABOLIZED_BY	branched-chain-amino-acid transaminase
+Valine	METABOLIZED_BY	valine--tRNA ligase
+Valine	METABOLIZED_BY	propionyl-CoA carboxylase
+Vitamin A	METABOLIZED_BY	3alpha(or 20beta)-hydroxysteroid dehydrogenase
+Vitamin A	METABOLIZED_BY	11-cis-retinol dehydrogenase
+Vitamin A	METABOLIZED_BY	retinal dehydrogenase
+Vitamin A	METABOLIZED_BY	unspecific monooxygenase
+Pyridoxine	METABOLIZED_BY	pyridoxal phosphatase
+Menadione	METABOLIZED_BY	sepiapterin reductase (L-erythro-7,8-dihydrobiopterin forming)
+Menadione	METABOLIZED_BY	NADPH:quinone reductase
+Menadione	METABOLIZED_BY	[methionine synthase] reductase
+Amphetamine	METABOLIZED_BY	primary-amine oxidase
+Nicotine	METABOLIZED_BY	nicotinate dehydrogenase (cytochrome)
+Lorazepam	METABOLIZED_BY	glucuronosyltransferase
+Erythromycin	METABOLIZED_BY	beta-glucuronidase
+Lovastatin	METABOLIZED_BY	arylesterase
+Enflurane	METABOLIZED_BY	unspecific monooxygenase
+Liothyronine	METABOLIZED_BY	aryl sulfotransferase
+Bleomycin	METABOLIZED_BY	bleomycin hydrolase
+Ertapenem	METABOLIZED_BY	beta-lactamase
+Piperacillin	METABOLIZED_BY	beta-lactamase
+Floxuridine	METABOLIZED_BY	thymidine phosphorylase
+Pyrazinamide	METABOLIZED_BY	nicotinamidase
+Tioguanine	METABOLIZED_BY	hypoxanthine phosphoribosyltransferase
+Aztreonam	METABOLIZED_BY	beta-lactamase
+Halothane	METABOLIZED_BY	unspecific monooxygenase
+Clindamycin	METABOLIZED_BY	beta-lactamase
+Ceftriaxone	METABOLIZED_BY	beta-lactamase
+Levodopa	METABOLIZED_BY	tyrosine decarboxylase
+Gemfibrozil	METABOLIZED_BY	catechol 2,3-dioxygenase
+Dasatinib	METABOLIZED_BY	flavin-containing monooxygenase
+5'-S-methyl-5'-thioadenosine	METABOLIZED_BY	S-methyl-5'-thioadenosine phosphorylase
+5'-S-methyl-5'-thioadenosine	METABOLIZED_BY	adenosylhomocysteine nucleosidase
+Dexrazoxane	METABOLIZED_BY	dihydropyrimidinase
+Progesterone	METABOLIZED_BY	20alpha-hydroxysteroid dehydrogenase
+Progesterone	METABOLIZED_BY	unspecific monooxygenase
+Progesterone	METABOLIZED_BY	steroid 21-monooxygenase
+Eszopiclone	METABOLIZED_BY	unspecific monooxygenase
+Acetohexamide	METABOLIZED_BY	NADP-retinol dehydrogenase
+Ampicillin	METABOLIZED_BY	beta-lactamase
+Nelarabine	METABOLIZED_BY	adenosine deaminase
+Namn	METABOLIZED_BY	nicotinamide-nucleotide adenylyltransferase
+Allopurinol	METABOLIZED_BY	arylamine N-acetyltransferase
+Gemcitabine	METABOLIZED_BY	cytidine deaminase
+Gemcitabine	METABOLIZED_BY	UMP/CMP kinase
+Chloramphenicol	METABOLIZED_BY	glycerol-3-phosphate dehydrogenase [NAD(P)(+)]
+Chloramphenicol	METABOLIZED_BY	chloramphenicol O-acetyltransferase
+Cefalotin	METABOLIZED_BY	beta-lactamase
+Prazosin	METABOLIZED_BY	unspecific monooxygenase
+Nabumetone	METABOLIZED_BY	3alpha-hydroxysteroid 3-dehydrogenase
+Amikacin	METABOLIZED_BY	cellulase
+Zidovudine	METABOLIZED_BY	glucuronosyltransferase
+Dextromethorphan	METABOLIZED_BY	cholest-4-en-3-one 26-monooxygenase [(25S)-3-oxocholest-4-en-26-oate forming]
+Cisplatin	METABOLIZED_BY	glutathione dehydrogenase (ascorbate)
+Cisplatin	METABOLIZED_BY	glutathione transferase
+Cisplatin	METABOLIZED_BY	superoxide dismutase
+Fluorouracil	METABOLIZED_BY	dihydropyrimidine dehydrogenase (NADP(+))
+Fluorouracil	METABOLIZED_BY	uridine phosphorylase
+Fluorouracil	METABOLIZED_BY	uracil phosphoribosyltransferase
+Fluorouracil	METABOLIZED_BY	amidophosphoribosyltransferase
+Fluorouracil	METABOLIZED_BY	orotidine-5'-phosphate decarboxylase
+Methotrexate	METABOLIZED_BY	thymidylate synthase
+Methotrexate	METABOLIZED_BY	thiopurine S-methyltransferase
+Methotrexate	METABOLIZED_BY	dihydrofolate reductase
+Methotrexate	METABOLIZED_BY	methylenetetrahydrofolate reductase [NAD(P)H]
+Methotrexate	METABOLIZED_BY	glutamate carboxypeptidase II
+Methotrexate	METABOLIZED_BY	folate gamma-glutamyl hydrolase
+Carbamazepine	METABOLIZED_BY	microsomal epoxide hydrolase
+Cortisone acetate	METABOLIZED_BY	11beta-hydroxysteroid dehydrogenase
+Cefpodoxime	METABOLIZED_BY	beta-lactamase
+1D-myo-inositol 1,4,5-trisphosphate	METABOLIZED_BY	inositol-polyphosphate multikinase
+Phenethylamine	METABOLIZED_BY	primary-amine oxidase
+Vorinostat	METABOLIZED_BY	glucuronosyltransferase
+Carfentanil	METABOLIZED_BY	sterol esterase
+Androstenedione	METABOLIZED_BY	testosterone 17beta-dehydrogenase (NADP(+))
+Carbenicillin	METABOLIZED_BY	acyl-homoserine-lactone acylase
+Carbenicillin	METABOLIZED_BY	beta-lactamase
+Levocarnitine	METABOLIZED_BY	carnitine O-acetyltransferase
+Diclofenac	METABOLIZED_BY	cholesterol 24-hydroxylase
+Diclofenac	METABOLIZED_BY	pentalenic acid synthase
+Labetalol	METABOLIZED_BY	glucuronosyltransferase
+Amodiaquine	METABOLIZED_BY	glutathione transferase
+Niacin	METABOLIZED_BY	ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase
+Fructose-6-phosphate	METABOLIZED_BY	6-phosphofructokinase
+Resveratrol	METABOLIZED_BY	aryl sulfotransferase
+Iron	METABOLIZED_BY	ferroxidase
+Nitrazepam	METABOLIZED_BY	FMN reductase [NAD(P)H]
+Imipenem	METABOLIZED_BY	beta-lactamase
+Tazobactam	METABOLIZED_BY	beta-lactamase
+Ticarcillin	METABOLIZED_BY	beta-lactamase
+Sorbitol	METABOLIZED_BY	L-iditol 2-dehydrogenase
+Rutin	METABOLIZED_BY	alpha-L-rhamnosidase
+Prasterone	METABOLIZED_BY	17beta-estradiol 17-dehydrogenase
+Prasterone	METABOLIZED_BY	25/26-hydroxycholesterol 7alpha-hydroxylase
+Prasterone	METABOLIZED_BY	alcohol sulfotransferase
+Galactose-uridine-5'-diphosphate	METABOLIZED_BY	glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase
+Galactose-uridine-5'-diphosphate	METABOLIZED_BY	procollagen galactosyltransferase
+Galactose-uridine-5'-diphosphate	METABOLIZED_BY	xylosylprotein 4-beta-galactosyltransferase
+Spermidine	METABOLIZED_BY	diamine N-acetyltransferase
+Clofarabine	METABOLIZED_BY	deoxycytidine kinase
+Clofibrate	METABOLIZED_BY	unspecific monooxygenase
+Clofibrate	METABOLIZED_BY	alkane 1-monooxygenase
+Estrone	METABOLIZED_BY	17beta-estradiol 17-dehydrogenase
+Estrone	METABOLIZED_BY	3beta-hydroxysteroid 3-dehydrogenase
+Estrone	METABOLIZED_BY	very-long-chain 3-oxoacyl-CoA reductase
+Estrone	METABOLIZED_BY	enoyl-CoA hydratase 2
+Epinephrine	METABOLIZED_BY	catechol O-methyltransferase
+Aprepitant	METABOLIZED_BY	unspecific monooxygenase
+Benzyl benzoate	METABOLIZED_BY	catalase peroxidase
+Warfarin	METABOLIZED_BY	unspecific monooxygenase
+Midazolam	METABOLIZED_BY	unspecific monooxygenase
+Daunorubicin	METABOLIZED_BY	NADPH--hemoprotein reductase
+Daunorubicin	METABOLIZED_BY	carbonyl reductase (NADPH)
+Nitrofurantoin	METABOLIZED_BY	FMN reductase (NADPH)
+Nitrofurantoin	METABOLIZED_BY	FMN reductase [NAD(P)H]
+Lamivudine	METABOLIZED_BY	5'-nucleotidase
+Lamivudine	METABOLIZED_BY	ethanolamine-phosphate cytidylyltransferase
+Lamivudine	METABOLIZED_BY	choline-phosphate cytidylyltransferase
+Oxacillin	METABOLIZED_BY	beta-lactamase
+Adefovir dipivoxil	METABOLIZED_BY	adenylate kinase
+Hydrocortisone	METABOLIZED_BY	steroid 11beta-monooxygenase
+Etodolac	METABOLIZED_BY	glucuronosyltransferase
+Tretinoin	METABOLIZED_BY	gamma-butyrobetaine dioxygenase
+Meropenem	METABOLIZED_BY	beta-lactamase
+Arachidonic Acid	METABOLIZED_BY	arachidonate 12-lipoxygenase
+Arachidonic Acid	METABOLIZED_BY	arachidonate 15-lipoxygenase
+Estrone sulfate	METABOLIZED_BY	protein-tyrosine-phosphatase
+Estrone sulfate	METABOLIZED_BY	arylsulfatase (type I)
+Uridine	METABOLIZED_BY	ribosylnicotinamide kinase
+Uridine	METABOLIZED_BY	uridine/cytidine kinase
+D-Mannose 1-phosphate	METABOLIZED_BY	phosphomannomutase
+Zidovudine monophosphate	METABOLIZED_BY	dTMP kinase
+Lanosterol	METABOLIZED_BY	sterol 14alpha-demethylase
+Dihydroxyacetone	METABOLIZED_BY	FAD-AMP lyase (cyclizing)
+Pantothenic acid	METABOLIZED_BY	pantothenate kinase
+Pralatrexate	METABOLIZED_BY	tetrahydrofolate synthase
+Deoxyuridine monophosphate	METABOLIZED_BY	thymidylate synthase
+Irinotecan	METABOLIZED_BY	carboxylesterase
+Irinotecan	METABOLIZED_BY	beta-glucuronidase
+Alprostadil	METABOLIZED_BY	15-hydroxyprostaglandin dehydrogenase (NAD(+))
+Etoposide	METABOLIZED_BY	prostaglandin-endoperoxide synthase
+Estradiol	METABOLIZED_BY	peroxidase
+Estradiol	METABOLIZED_BY	glucuronosyltransferase
+Naproxen	METABOLIZED_BY	glucuronosyltransferase
+Ribavirin	METABOLIZED_BY	purine-nucleoside phosphorylase
+Ribavirin	METABOLIZED_BY	5'-nucleotidase
+Propofol	METABOLIZED_BY	fatty acid amide hydrolase
+Lauric acid	METABOLIZED_BY	pentalenic acid synthase
+UDP-alpha-D-glucuronic acid	METABOLIZED_BY	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase
+D-Serine	METABOLIZED_BY	serine racemase
+D-Serine	METABOLIZED_BY	D-amino-acid oxidase
+Acetylcholine	METABOLIZED_BY	acetylcholinesterase
+Phosphoenolpyruvate	METABOLIZED_BY	pyruvate kinase
+Uridine diphosphate glucose	METABOLIZED_BY	UDP-glucose 6-dehydrogenase
+Trifluoperazine	METABOLIZED_BY	flavin-containing monooxygenase
+Loperamide	METABOLIZED_BY	FMN reductase (NADPH)
+Oxazepam	METABOLIZED_BY	unspecific monooxygenase
+Aminolevulinic acid	METABOLIZED_BY	porphobilinogen synthase
+Diflunisal	METABOLIZED_BY	glucuronosyltransferase
+Tacrolimus	METABOLIZED_BY	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase
+Benzphetamine	METABOLIZED_BY	unspecific monooxygenase
+Ethanol	METABOLIZED_BY	alcohol dehydrogenase
+Ethanol	METABOLIZED_BY	all-trans-retinol dehydrogenase (NAD(+))
+Cocaine	METABOLIZED_BY	cholinesterase
+Metronidazole	METABOLIZED_BY	FMN reductase [NAD(P)H]
+Azacitidine	METABOLIZED_BY	cytidine deaminase
+Isoniazid	METABOLIZED_BY	catalase peroxidase
+Isoniazid	METABOLIZED_BY	arylamine N-acetyltransferase
+Dapoxetine	METABOLIZED_BY	flavin-containing monooxygenase
+Netilmicin	METABOLIZED_BY	aminoglycoside 6'-N-acetyltransferase
+Zaleplon	METABOLIZED_BY	aldehyde oxidase
+Desloratadine	METABOLIZED_BY	glucuronosyltransferase
+Cytarabine	METABOLIZED_BY	5'-nucleotidase
+Cytarabine	METABOLIZED_BY	dCMP deaminase
+Dopamine	METABOLIZED_BY	monoamine oxidase
+Azathioprine	METABOLIZED_BY	glutathione transferase
+Doxorubicin	METABOLIZED_BY	alcohol dehydrogenase (NADP(+))
+Doxorubicin	METABOLIZED_BY	malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))
+Doxorubicin	METABOLIZED_BY	3alpha-hydroxysteroid 3-dehydrogenase
+Doxorubicin	METABOLIZED_BY	nitric-oxide synthase (NADPH)
+Doxorubicin	METABOLIZED_BY	xanthine dehydrogenase
+Doxorubicin	METABOLIZED_BY	NADH:ubiquinone reductase (H(+)-translocating)
+Busulfan	METABOLIZED_BY	glutathione transferase
+4-Nitrophenyl Phosphate	METABOLIZED_BY	protein-tyrosine-phosphatase
+Riociguat	METABOLIZED_BY	vitamin D 25-hydroxylase
+Sofosbuvir	METABOLIZED_BY	glucosylceramidase
+Obeticholic acid	METABOLIZED_BY	bile acid-CoA:amino acid N-acyltransferase
+Miltefosine	METABOLIZED_BY	phospholipase D
+Tibolone	METABOLIZED_BY	3beta-hydroxy-Delta(5)-steroid dehydrogenase
+Benzydamine	METABOLIZED_BY	flavin-containing monooxygenase
+Rufinamide	METABOLIZED_BY	carboxylesterase
+Silodosin	METABOLIZED_BY	alcohol dehydrogenase
+Silodosin	METABOLIZED_BY	aldehyde dehydrogenase (NAD(+))
+Doripenem	METABOLIZED_BY	beta-lactamase
+Doripenem	METABOLIZED_BY	membrane dipeptidase
+Droxidopa	METABOLIZED_BY	aromatic-L-amino-acid decarboxylase
+Histamine	METABOLIZED_BY	histamine N-methyltransferase
+Histamine	METABOLIZED_BY	diamine oxidase
+Bazedoxifene	METABOLIZED_BY	beta-glucuronidase
+Doxercalciferol	METABOLIZED_BY	cholestanetriol 26-monooxygenase
+2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine	METABOLIZED_BY	glycerol dehydratase
+Molsidomine	METABOLIZED_BY	3',5'-cyclic-GMP phosphodiesterase
+Kappadione	METABOLIZED_BY	vitamin-K-epoxide reductase (warfarin-sensitive)
+Sodium acetate	METABOLIZED_BY	acetate--CoA ligase
+Protirelin	METABOLIZED_BY	pyroglutamyl-peptidase I
+Hydrogen peroxide	METABOLIZED_BY	catalase
+Hydrogen peroxide	METABOLIZED_BY	glutathione peroxidase
+Bosutinib	METABOLIZED_BY	quinine 3-monooxygenase
+Bradykinin	METABOLIZED_BY	meprin B
+Bradykinin	METABOLIZED_BY	Xaa-Pro aminopeptidase
+Bradykinin	METABOLIZED_BY	dipeptidyl-peptidase II
+Bradykinin	METABOLIZED_BY	lysine carboxypeptidase
+Bradykinin	METABOLIZED_BY	cathepsin H
+Bradykinin	METABOLIZED_BY	cathepsin K
+Lorlatinib	METABOLIZED_BY	unspecific monooxygenase
+Lorlatinib	METABOLIZED_BY	glucuronosyltransferase
+Citicoline	METABOLIZED_BY	Mn(2+)-dependent ADP-ribose/CDP-alcohol diphosphatase
+Farnesyl diphosphate	METABOLIZED_BY	squalene synthase
+Farnesyl diphosphate	METABOLIZED_BY	protein farnesyltransferase
+Phloroglucinol	METABOLIZED_BY	phloroglucinol reductase
+Leukotriene B4	METABOLIZED_BY	unspecific monooxygenase
+Ornidazole	METABOLIZED_BY	FAD reductase (NADH)
+Ornidazole	METABOLIZED_BY	FMN reductase (NADPH)
+Methyltestosterone	METABOLIZED_BY	glucuronosyltransferase
+Beta carotene	METABOLIZED_BY	beta-carotene 15,15'-dioxygenase
+Oxothiazolidinecarboxylic acid	METABOLIZED_BY	5-oxoprolinase (ATP-hydrolyzing)
+Agmatine	METABOLIZED_BY	NAD(+) ADP-ribosyltransferase
+Agmatine	METABOLIZED_BY	agmatinase
+Oxogluric acid	METABOLIZED_BY	pyrimidine-deoxynucleoside 2'-dioxygenase
+Oxogluric acid	METABOLIZED_BY	procollagen-proline 3-dioxygenase
+Oxogluric acid	METABOLIZED_BY	hypoxia-inducible factor-proline dioxygenase
+Rilpivirine	METABOLIZED_BY	glucuronosyltransferase
+Fingolimod	METABOLIZED_BY	unspecific monooxygenase
+Guaiacol	METABOLIZED_BY	iodide peroxidase
+Nandrolone	METABOLIZED_BY	aromatase
+Choline salicylate	METABOLIZED_BY	choline dehydrogenase
+Choline salicylate	METABOLIZED_BY	choline O-acetyltransferase
+Choline salicylate	METABOLIZED_BY	ethanolaminephosphotransferase
+Linoleic acid	METABOLIZED_BY	linoleate isomerase
+Linoleic acid	METABOLIZED_BY	nitrile hydratase
+Ceftiofur	METABOLIZED_BY	beta-lactamase
+Synthetic camphor	METABOLIZED_BY	camphor 5-monooxygenase
+Amifampridine	METABOLIZED_BY	arylamine N-acetyltransferase
+Pyridoxamine	METABOLIZED_BY	pyridoxal 5'-phosphate synthase
+Triciribine	METABOLIZED_BY	adenosine kinase
+Carnosine	METABOLIZED_BY	carnosine N-methyltransferase
+Angiotensin 1-7	METABOLIZED_BY	angiotensin-converting enzyme 2
+L-Lactic acid	METABOLIZED_BY	L-lactate dehydrogenase
+Paraoxon	METABOLIZED_BY	arylesterase
+Triacetin	METABOLIZED_BY	sterol esterase
+Phosphate ion	METABOLIZED_BY	GDP-D-glucose phosphorylase
+Plazomicin	METABOLIZED_BY	gentamicin 2'-N-acetyltransferase
+Plazomicin	METABOLIZED_BY	kanamycin kinase
+Isoquercetin	METABOLIZED_BY	beta-glucosidase
+Hydroxyprogesterone	METABOLIZED_BY	steroid 21-monooxygenase
+Loteprednol etabonate	METABOLIZED_BY	arylesterase
+Dynorphin	METABOLIZED_BY	leucyl aminopeptidase
+Nicotinamide riboside	METABOLIZED_BY	ribosyldihydronicotinamide dehydrogenase (quinone)
+Niraparib	METABOLIZED_BY	beta-glucuronidase
+Dinitrochlorobenzene	METABOLIZED_BY	prostaglandin-D synthase
+Dinitrochlorobenzene	METABOLIZED_BY	prostaglandin-E synthase
+Brexanolone	METABOLIZED_BY	aldose reductase
+Salicin	METABOLIZED_BY	6-phospho-beta-glucosidase
+Oxaloacetic acid	METABOLIZED_BY	acylpyruvate hydrolase
+Oxaloacetic acid	METABOLIZED_BY	phosphoenolpyruvate carboxykinase (GTP)
+Fenofibric acid	METABOLIZED_BY	carbonyl reductase (NADPH)
+Fenofibric acid	METABOLIZED_BY	3alpha-hydroxysteroid 3-dehydrogenase
+Candesartan	METABOLIZED_BY	unspecific monooxygenase
+Candesartan	METABOLIZED_BY	prostaglandin-endoperoxide synthase

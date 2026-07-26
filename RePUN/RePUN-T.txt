@@ -1,0 +1,392 @@
+adenosine	arteriosclerosis	0
+gabapentin	hot flashes	0
+olanzapine	delirium	0
+baricitinib	autoimmune disease	0
+doxycycline	non-small cell lung cancer	0
+dexmedetomidine	substance abuse	0
+rozanolixizumab	chronic inflammatory demyelinating polyradiculoneuropathy	0
+nilotinib	myeloproliferative disorders	0
+panobinostat	prostate cancer	0
+human immunoglobulin g	polymyositis	0
+trabectedin	tumors	0
+nilotinib	acute leukemia	0
+ifosfamide	neoplasm	0
+dexmedetomidine	alcohol withdrawal	0
+venetoclax	myeloid leukemia	0
+etanercept	connective tissue diseases	0
+omarigliptin	diabetes mellitus (type 2)	0
+isavuconazole	candidiasis, invasive	0
+decitabine	acute leukemia	0
+insulin lispro protamine, human 50 unt/ml	autoimmune disease	0
+exenatide	diabetes mellitus (type 2)	0
+tucatinib	uterine cervical cancer	0
+ivacaftor / lumacaftor oral product	combined pulmonary fibrosis-emphysema syndrome	0
+ascorbic acid	septic shock	0
+ursodeoxycholic acid	chronic kidney disease	0
+cannabidiol	schizophrenia	0
+naltrexone	schizoaffective disorder	0
+letrozole	cancer	0
+mesalazine	clostridium difficile colitis	0
+abaloparatide	degenerative disc disease	0
+ifosfamide	pancreatic cancer	0
+caspofungin acetate	cancer	0
+hydroxychloroquine	covid-19	0
+naltrexone	arthritis	0
+abatacept	arthritis, psoriatic	0
+magnesium(2+)	brain ischemia	0
+secukinumab	systemic lupus erythematosus (sle)	0
+avelumab	pancreatic neuroendocrine tumor	0
+fludarabine	advanced hepatocellular carcinoma	0
+brentuximab vedotin	cutaneous t-cell lymphoma	0
+pregabalin	dry eyes	0
+minocycline	cardiovascular disorder	0
+cabazitaxel	gastric cancer	0
+masitinib	indolent systemic mastocytosis	0
+epoetin alfa	hematologic disorder	0
+gabapentin	breast cancer	0
+lenalidomide	chronic lymphocytic leukemia	0
+tadalafil	muscular dystrophy	0
+topiramate	bipolar disorder	0
+hydrocortisone	hypopituitarism	0
+ascorbic acid	oligodendroglioma	0
+nitazoxanide	pneumonia	0
+vorinostat	breast cancer recurrent	0
+canakinumab	non-small cell lung carcinoma	0
+sarilumab	uveitis	0
+elafibranor	metabolic dysfunction-associated steatohepatitis	0
+bevacizumab	neoplasm	0
+crovalimab	demyelinating disease	0
+secukinumab	lupus nephritis	0
+quetiapine	schizoaffective disorder	0
+trastuzumab	breast carcinoma	0
+dasatinib	waldenstrom macroglobulinemia	0
+omadacycline	anaerobic bacterial infections	0
+empagliflozin	hypoglycemia	0
+reslizumab	asthma	0
+avelumab	adenocarcinoma	0
+dalteparin	diabetic foot ulcer	0
+ganciclovir	viral disease	0
+pirfenidone	inborn errors of metabolism	0
+rivaroxaban	covid-19	0
+ceftibuten	pyelonephritis	0
+enoxaparin	thrombosis	0
+rilonacept	skin diseases	0
+tesamorelin	human immunodeficiency virus (hiv)	0
+carfilzomib	neoplasm	0
+infliximab	inflammatory bowel diseases	0
+abatacept	nervous system disorder	0
+brivaracetam	absence epilepsy	0
+brexpiprazole	manic disorder	0
+azithromycin	lung diseases	0
+allopurinol	hypertension	0
+domperidone	digestive system disorder	0
+budesonide	cholestasis	0
+semaglutide	peripheral arterial disease	0
+fulvestrant	prostate cancer	0
+vedolizumab	gastroenteritis	0
+eptifibatide	stroke	0
+acetaminophen	osteoporosis	0
+naltrexone	depression	0
+celecoxib	neoplasm	0
+baricitinib	connective tissue diseases	0
+luspatercept	thalassemia	0
+vancomycin	gastroenteritis	0
+paclitaxel	lung cancer	0
+varenicline	alcoholism	0
+canakinumab	fever	0
+dexamethasone	acute pain	0
+dasatinib	breast neoplasms	0
+tenecteplase	acute respiratory distress syndrome (ards)	0
+avatrombopag	chronic liver disease	0
+cetuximab	esophageal cancer	0
+droxidopa	cardiovascular disorder	0
+crovalimab	guillain-barre syndrome	0
+natalizumab	rheumatoid arthritis	0
+sorafenib	gastroesophageal junction cancer	0
+pregabalin	nephrolithiasis	0
+vismodegib	primary central nervous system lymphoma	0
+ruxolitinib	chlamydia pneumoniae	0
+ziprasidone	bipolar depression	0
+fluvoxamine	infection	0
+rituximab	immune thrombocytopenic purpura	0
+ruxolitinib	connective tissue diseases	0
+etravirine	ccr5-tropic hiv-1 infection	0
+lithium carbonate	multiple sclerosis	0
+rucaparib	neoplasm	0
+alectinib	thyroid disease	0
+basiliximab	non-hodgkin's lymphoma	0
+nitazoxanide	viral pneumonia	0
+tirofiban	ischemic stroke	0
+sertraline	depressive symptoms	0
+rotigotine	idiopathic parkinson's disease	0
+bexagliflozin	diabetes mellitus (type 2)	0
+telavancin	pneumonia	0
+dalteparin	chronic leg ulcers	0
+epoetin alfa	anaemia	0
+sertraline	aggressive behavior	0
+parathyroid hormone	myeloproliferative disorders	0
+minoxidil	intellectual disability	0
+perhexiline	heart failure	0
+triheptanoin	autosomal recessive osteopetrosis	0
+levocabastine	allergic rhinitis	0
+gabapentin	cancer	0
+nivolumab	spinal cord compression	0
+clobetasol propionate	cataract	0
+tadalafil	nervous system disorder	0
+temozolomide	cancer	0
+obeticholic acid	metabolic dysfunction-associated steatohepatitis	0
+pembrolizumab	metastatic merkel cell carcinoma (mcc)	0
+ataluren	dravet syndrome	0
+tezepelumab	nasal polyps	0
+nitazoxanide	fatty liver disease	0
+ruxolitinib	vitiligo	0
+danazol	lung diseases	0
+pembrolizumab	liver cancer	0
+pregabalin	hiv-1 infection	0
+benralizumab	acute exacerbation of chronic obstructive pulmonary disease	0
+simvastatin	otorhinolaryngologic disease	0
+fulvestrant	cancer	0
+abciximab	cerebrovascular accident	0
+vancomycin	intestinal disorder	0
+certolizumab pegol	juvenile idiopathic arthritis	0
+gefitinib	ovarian cancer	0
+etrasimod	dermatitis	0
+interferon gamma-1b	cancer	0
+dexmedetomidine	congenital heart disease	0
+mavacamten	cardiomyopathy	0
+haloperidol	acute psychosis	0
+tacrolimus	erectile dysfunction	0
+cetuximab	sarcoma	0
+caffeine	apnea	0
+hexaminolevulinate	cancer	0
+ranibizumab	von hippel-lindau disease	0
+interferon gamma-1b	pulmonary fibrosis	0
+lacosamide	nervous system disorder	0
+epoetin alfa	non-small cell lung carcinoma	0
+andexanet alfa	liver transplant surgery	0
+sulfasalazine	myocardial ischemia	0
+sunitinib	neoplasm	0
+terlipressin	liver failure	0
+siltuximab	leukemia	0
+acetaminophen	asthma	0
+simvastatin	respiratory tract infections	0
+venlafaxine	prostate cancer	0
+binimetinib	plexiform neurofibroma	0
+clopidogrel	cardiovascular disorder	0
+rituximab	active lupus nephritis	0
+montelukast	bronchiolitis	0
+dapagliflozin	acute heart failure	0
+sapropterin dihydrochloride	classical phenylketonuria	0
+parathyroid hormone	acute myelomonocytic leukemia m4	0
+brivaracetam	postherpetic neuralgia	0
+selumetinib	differentiated thyroid cancer	0
+prasugrel	acute coronary syndrome	0
+brexpiprazole	bipolar i disorder	0
+lurasidone	schizoaffective disorder	0
+brivaracetam	nervous system disorder	0
+aliskiren	diabetes mellitus (type 2)	0
+riociguat	cystic fibrosis	0
+prazosin	trauma	0
+vorinostat	prostate cancer	0
+lacosamide	fibromyalgia	0
+droxidopa	vascular diseases	0
+ceftazidime	pseudomonas aeruginosa infections	0
+dasatinib	connective tissue diseases	0
+bupivacaine	cerebral vasospasm	0
+armodafinil	depression	0
+dimethicone	chapped skin	1
+marbofloxacin	urinary tract infections (cystitis)	1
+damoctocog alfa pegol	coagulation factor deficiency	1
+lomustine	hodgkin's disease	1
+glasdegib	acute myeloid leukemia	1
+methylprednisolone aceponate	arthritis	1
+anakinra	familial cold autoinflammatory syndrome	1
+cefprozil	bacterial otitis	1
+voglibose	type 2 diabetes mellitus	1
+formoterol / glycopyrronium metered dose inhaler	asthma	1
+crotamiton	scabies	1
+amlodipine 10 mg / hydrochlorothiazide 25 mg / valsartan 160 mg oral tablet	stroke disorder	1
+glimepiride	diabetes mellitus (type 2)	1
+diclofenamide	open-angle glaucoma	1
+ferric subsulfate	anemia	1
+human rho(d) immune globulin	chronic immune thrombocytopenic purpura	1
+prednisolone	berylliosis	1
+iobenguane	paraganglioma	1
+crotalus scutulatus antivenin	north american crotalid envenomation	1
+dexamethasone	primary gout	1
+cilazapril	chronic heart failure	1
+dalteparin	venous thromboembolism	1
+oxycodone	morphinan opioid overdose	1
+ciprofloxacin	bacterial infections	1
+vancomycin	clostridium difficile diarrhea	1
+budesonide	ulcers	1
+prednisolone	chemical burns	1
+flumetasone	atopic dermatitis	1
+tromantadine	herpes simplex	1
+adcetris	peripheral t-cell lymphoma, not otherwise specified	1
+triamcinolone	congenital hypoplastic anemia	1
+cortisone	nephrotic syndrome	1
+lidocaine	transfusion reaction	1
+fenofibrate acid	atherosclerosis	1
+certoparin	pulmonary embolism	1
+evolocumab	cardiovascular disorder	1
+estrogens, conjugated (usp) / medroxyprogesterone oral tablet	postmenopausal osteoporosis	1
+fludrocortisone	salt-losing adrenogenital syndrome	1
+cannabidiol	lennox-gastaut syndrome	1
+prednisolone	regional enteritis	1
+nilotinib	chronic phase chronic myeloid leukemia	1
+potassium alum	otitis	1
+naltrexone	alcohol dependence	1
+omalizumab	chronic rhinosinusitis with nasal polyps	1
+primaquine	malaria, vivax	1
+dutasteride	acute retention of urine	1
+hydrocortisone 10 mg/ml / iodoquinol 10 mg/ml topical cream	gastrointestinal candidiasis	1
+certolizumab	ankylosing spondylitis	1
+methylprednisolone	granuloma annulare	1
+methylprednisolone	polyarteritis nodosa	1
+becaplermin	skin ulcers	1
+sitagliptin	type 2 diabetes mellitus	1
+acetaminophen / oxycodone oral capsule	pain	1
+streptococcus pneumoniae type 1 capsular polysaccharide antigen	pneumonia	1
+betamethasone	acute exacerbations of multiple sclerosis	1
+rifapentine	latent tuberculosis infection	1
+acellular pertussis vaccine, inactivated / diphtheria toxoid vaccine, inactivated / haemophilus influenzae b (ross strain) capsular polysaccharide meningococcal protein conjugate vaccine / hepatitis b surface antigen vaccine / poliovirus vaccine inactivated, type 1 (mahoney) / poliovirus vaccine inactivated, type 2 (mef-1) / poliovirus vaccine inactivated, type 3 (saukett) / tetanus toxoid vaccine, inactivated injectable product	hepatitis b	1
+dexrazoxane	extravasation of chemotherapeutic agent	1
+octreotide	congenital isolated hyperinsulinism	1
+lidocaine	choroiditis	1
+hydrocortisone/acetic acid	inflammation	1
+rifabutin	bacterial infections	1
+certolizumab pegol 200 mg/ml solution for injection	rheumatoid arthritis	1
+kaletra	hiv-1 infection	1
+amenamevir	recurrent herpes simplex	1
+dimethyl sulfoxide	pollakisuria	1
+hexetidine	oral candidiasis	1
+tazarotene	skin wrinkling	1
+diazepam	epilepsy with generalized tonic-clonic seizures	1
+ranibizumab	retinopathy	1
+prazosin	post-traumatic headache	1
+butalbital	tension-type headache	1
+zoledronic acid	corticosteroid-induced osteoporosis	1
+betaine	inborn disorder of cobalamin metabolism and transport	1
+orkambi	cystic fibrosis	1
+cysteamine	ocular cystinosis	1
+econazole	fungal infections	1
+trientine	wilson's disease	1
+amphotericin b	helminthiasis	1
+erythromycin	skin infection	1
+hydrocortisone	nummular eczema	1
+advicor	hypercholesterolemia	1
+ciprofloxacin	haemophilus acute exacerbation of chronic bronchitis	1
+cortisporin-tc	ear infection	1
+simvastatin	hypoalphalipoproteinemia	1
+atropine	organophosphate poisoning	1
+mepolizumab	chronic sinusitis	1
+dorzolamide-timolol combination	open-angle glaucoma	1
+rolapitant	chemotherapy induced nausea and vomiting	1
+simvastatin	cerebrovascular accident	1
+alogliptin	diabetes mellitus type 2	1
+hydrochlorothiazide / olmesartan oral product	anterolateral myocardial infarction	1
+allopurinol	nephrolithiasis, calcium oxalate	1
+fusidic acid	rickettsia infections	1
+fluticasone propionate	granuloma annulare	1
+pixantrone	b-cell non-hodgkin's lymphoma	1
+durvalumab	non-small cell lung cancer (nsclc)	1
+thyroid hormones	thyroid nodule	1
+methylprednisolone	ocular cicatricial pemphigoid	1
+pazopanib	soft tissue sarcoma	1
+pomalidomide	plasma cell myeloma	1
+chlorothiazide	acute glomerulonephritis	1
+coenzyme m	ifosfamide-induced hemorrhagic cystitis	1
+gestonorone caproate	benign prostatic hyperplasia	1
+omalizumab	moderate to severe persistent asthma	1
+ranibizumab	diabetic retinopathy (dr)	1
+lincomycin	streptococcal infection	1
+streptococcus pneumoniae type 7f capsular polysaccharide diphtheria crm197 protein conjugate antigen	streptococcus pneumoniae type 7f	1
+peginterferon beta-1a	multiple sclerosis	1
+minodronic acid	osteoporosis	1
+cemiplimab	locally advanced basal cell carcinoma (labcc)	1
+dexchlorpheniramine maleate	allergies	1
+protriptyline	depressive disorder	1
+esflurbiprofen	osteoarthritis	1
+penicillin g	meningococcal meningitis	1
+isavuconazonium	fungal infections	1
+prednisolone acetate	secondary adrenocortical insufficiency	1
+valaciclovir	herpes zoster	1
+detomidine	pain	1
+isopropanol	acute graft versus host disease	1
+lactose, anhydrous	hypertension	1
+dexmedetomidine	bipolar ii disorder	1
+oxandrolone	protein catabolism	1
+aztreonam	pseudomonas aeruginosa infection	1
+benzylpenicillin	pinta	1
+metronidazole	anaerobic bacterial infections	1
+imiquimod	primary superficial basal cell carcinoma	1
+spinosad	pediculosis	1
+prednisolone phosphate	acute asthma attack	1
+bevacizumab	unresectable non-squamous non-small cell lung cancer	1
+hydrocortisone / lidocaine topical product	insect bites	1
+anagliptin	diabetes mellitus type 2	1
+cortisone acetate	adrenal insufficiency	1
+miocamycin	pneumonia	1
+tepoxalin	arthritis	1
+berotralstat hydrochloride	hereditary angioedema	1
+dimercaprol	cadmium poisoning	1
+lithium cation	bipolar disorder	1
+pancrelipase protease	pancreatic insufficiency attributed to cystic fibrosis	1
+interferon alfacon-1	aids-related kaposi's sarcoma	1
+leuprorelin acetate	prostate cancer	1
+adcetris	primary cutaneous t-cell lymphoma	1
+cysteamine	cystinosis	1
+cyclophosphamide	neuroblastoma	1
+fluvastatin	dyslipidemia	1
+levosimendan	congestive heart failure	1
+acalabrutinib	b-cell non-hodgkin's lymphoma	1
+iodine	seborrheic dermatitis	1
+hydrotalcite	peptic ulcers	1
+denosumab	spinal cord disorder	1
+terconazole	gastrointestinal candidiasis	1
+faricimab	retinal vein occlusion	1
+polysporin	keratoconjunctivitis	1
+xylometazoline	rhinitis	1
+acetylcholine	mydriasis	1
+taletrectinib	non-small cell lung carcinoma	1
+desmopressin	psychogenic polydipsia	1
+rifabutin	mycobacterium infections, nontuberculous	1
+adenosine	epithelial keratitis	1
+cabazitaxel	metastatic prostate carcinoma	1
+rofecoxib	migraine	1
+spinosad	pediculus humanus capitis infestation	1
+dexamethasone	adrenal gland hyperfunction	1
+chlorpheniramine / dextromethorphan / pseudoephedrine oral product	asthma	1
+alpelisib	hormone receptor-positive breast cancer	1
+linezolid	bacteriemia	1
+certolizumab pegol	chronic plaque psoriasis	1
+roflumilast	haemophilus acute exacerbation of chronic bronchitis	1
+chlorambucil	hodgkin's lymphoma	1
+simvastatin	dyslipidemia	1
+telavancin	nosocomial pneumonia	1
+naloxone	respiratory depression	1
+levomenthol	seborrheic dermatitis	1
+vidarabine	paroxysmal supraventricular tachycardia	1
+papaverine	abdominal colic	1
+guanabenz	hypertension	1
+cyanocobalamin	crohn ileitis	1
+histamine	osteoarthritis	1
+streptococcus pneumoniae type 23f capsular polysaccharide antigen	bacterial pneumonia	1
+thiotepa	papillary urothelial cell carcinoma	1
+cisplatin	neoplasm metastasis	1
+venlafaxine	recurrent depression	1
+sinapultide	bronchopulmonary dysplasia	1
+glycol salicylate	tendonitis	1
+streptococcus pneumoniae type 19a capsular polysaccharide antigen	streptococcal infections	1
+doxycycline	anthrax disease	1
+ceftazidime	bacterial skin infections	1
+phytomenadione	hypocalcemia	1
+certoparin	venous thromboembolism	1
+prednisolone	acute exacerbation of chronic obstructive pulmonary disease	1
+magnesium acetate tetrahydrate	insulin hypoglycemia	1
+rituximab	lymphoproliferative syndrome	1
+sulfadiazine	inclusion conjunctivitis	1
+acetyldigitoxin	atrial fibrillation	1
+pyrazinamide	multidrug-resistant tuberculosis	1
+fluorometholone and sulfacetamide sodium	alpha hemolytic streptococcal infection	1

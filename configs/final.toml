@@ -1,0 +1,47 @@
+[data]
+# Paths are resolved relative to this TOML file.
+positive_pairs = "../RePUN/RePUN-P.txt"
+negative_pairs = "../RePUN/RePUN-N.txt"
+test_pairs = "../RePUN/RePUN-T.txt"
+# Authority70 pairs are excluded from training and retained as graph seed nodes,
+# matching the final experiment.
+holdout_pairs = "../authority70_holdout.tsv"
+
+drug_embeddings = "../embeddings/drug_embeddings.npy"
+disease_embeddings = "../embeddings/disease_embeddings.npy"
+kg_entity_embeddings = "../embeddings/entity_embeddings.npy"
+drug_index = "../embeddings/drug_index.tsv"
+disease_index = "../embeddings/disease_index.tsv"
+# Compact metadata used to reconstruct the original 29-dimensional quality input.
+quality_metadata = "../metadata/entity_quality.tsv"
+kg_entity_index = "../embeddings/entities.tsv"
+kg_edges_dir = "../edges_by_relation"
+
+[model]
+hidden_dim = 128
+topology_layers = 1
+similarity_layers = 1
+knn_k = 7
+max_neighbors = 30
+dropout = 0.15
+
+[training]
+seeds = [20260613, 20260614, 20260615, 20260616, 20260617]
+validation_fraction = 0.20
+epochs = 30
+batch_size = 1024
+learning_rate = 0.001
+weight_decay = 0.0001
+positive_weight = 1.0
+negative_weight = 2.0
+contrastive_weight = 0.05
+temperature = 0.2
+minimum_epochs = 5
+patience = 5
+gradient_clip_norm = 5.0
+
+[runtime]
+device = "auto"
+num_workers = 0
+deterministic = true
+output_dir = "../runs"
