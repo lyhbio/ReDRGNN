@@ -33,11 +33,11 @@ The label contract is strict:
 | --------------- | ------------: | -------------------- |
 | `RePUN-P.txt` |         `1` | supervised positives |
 | `RePUN-N.txt` |         `0` | supervised negatives |
-| `RePUN-U.txt` |        `-1` | unlabeled pairs      |
-| `RePUN-T.txt` |  `0`, `1` | held-out Pub_Test    |
+| `RePUN-U.txt` |        `-1` | unknown pairs        |
+| `RePUN-T.txt` |  `0`, `1` | held-out Test pairs  |
 
 `RePUN-T` pairs are automatically removed from P/N before any split. Unknown
-pairs are never passed to BCE and are never treated as negatives.
+pairs are  never treated as high-confidence negatives.
 
 Auxiliary inputs are kept outside the RePUN dataset:
 
