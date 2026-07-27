@@ -51,37 +51,32 @@ splitting and are never used as training examples.
 
 Processed external evaluation pairs are kept separately from RePUN:
 
-| file                                 | positives | reliable negatives | role                     |
-| ------------------------------------ | --------: | -----------------: | ------------------------ |
-| `external_evaluation/Fdataset.tsv` |     1,745 |              1,816 | Fdataset evaluation only |
-| `external_evaluation/Cdataset.tsv` |     2,282 |              2,648 | Cdataset evaluation only |
-| `external_evaluation/Ydataset.tsv` |     7,708 |              9,501 | Ydataset evaluation only |
+| file                                 | positives | reliable negatives |
+| ------------------------------------ | --------: | -----------------: |
+| `external_evaluation/Fdataset.tsv` |     1,745 |              1,816 |
+| `external_evaluation/Cdataset.tsv` |     2,282 |              2,648 |
+| `external_evaluation/Ydataset.tsv` |     7,708 |              9,501 |
 
-These headered TSV files contain `drug_name`, `disease_name`, `label`, and
-`source`. They are not read by the default RePUN training or RePUN-T evaluation
-commands and must never be added to the optimization loss.
-
-The combined `RePUN.txt` is not used because it duplicates P/N/U and makes it
-too easy to mix unknown labels into supervised training.
+Fdataset, Cdataset, and Ydataset are used for evaluation by taking positive samples and reliable negatives, provided that they do not conflict with or duplicate the training set of ReDRGNN.
 
 ## Experimental environment
 
 The reported ReDRGNN experiments were run in the following environment:
 
-| component                     | specification                                      |
-| ----------------------------- | -------------------------------------------------- |
-| Operating system              | Ubuntu 22.04.3 LTS, Linux kernel 6.8.0-124-generic |
-| CPU                           | Intel Core i9-7900X, 10 cores / 20 threads         |
-| RAM                           | 128 GB (125 GiB available to the operating system) |
-| GPU                           | 4 x NVIDIA GeForce RTX 3090, 24 GB each            |
-| GPUs used per training run    | 1                                                  |
-| NVIDIA driver                 | 595.71.05                                          |
-| Driver-supported CUDA version | 13.2                                               |
-| PyTorch CUDA runtime          | CUDA 13.0                                          |
-| cuDNN                         | 9.19.0                                             |
-| Python                        | 3.13.2                                             |
-| NumPy                         | 2.4.3                                              |
-| PyTorch                       | 2.11.0+cu130                                       |
+| component                     |  | specification                                      |
+| ----------------------------- | - | -------------------------------------------------- |
+| Operating system              |  | Ubuntu 22.04.3 LTS, Linux kernel 6.8.0-124-generic |
+| CPU                           |  | Intel Core i9-7900X, 10 cores / 20 threads         |
+| RAM                           |  | 128 GB (125 GiB available to the operating system) |
+| GPU                           |  | 4 x NVIDIA GeForce RTX 3090, 24 GB each            |
+| GPUs used per training run    |  | 1                                                  |
+| NVIDIA driver                 |  | 595.71.05                                          |
+| Driver-supported CUDA version |  | 13.2                                               |
+| PyTorch CUDA runtime          |  | CUDA 13.0                                          |
+| cuDNN                         |  | 9.19.0                                             |
+| Python                        |  | 3.13.2G                                            |
+| NumPy                         |  | 2.4.3                                              |
+| PyTorch                       |  | 2.11.0+cu130                                       |
 
 ReDRGNN does not depend on DGL or PyTorch Geometric. The host contains four
 GPUs, but each seed is trained on a single selected GPU; the implementation is
