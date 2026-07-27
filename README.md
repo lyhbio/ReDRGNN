@@ -82,7 +82,6 @@ The reported ReDRGNN experiments were run in the following environment:
 | Python                        | 3.13.2                                             |
 | NumPy                         | 2.4.3                                              |
 | PyTorch                       | 2.11.0+cu130                                       |
-| Graph-learning framework      | None                                               |
 
 ReDRGNN does not depend on DGL or PyTorch Geometric. The host contains four
 GPUs, but each seed is trained on a single selected GPU; the implementation is
