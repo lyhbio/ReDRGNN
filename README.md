@@ -92,7 +92,7 @@ Install the required dependencies and the ReDRGNN package::
 python -m pip install -r requirements.txt -e .
 ```
 
-## Train
+## Train/Test
 
 Run five independent training and evaluation runs:
 
