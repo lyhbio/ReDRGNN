@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "redrgnn"
 version = "0.1.0"
-description = "Dual-route graph neural network for drug-disease association prediction"
+description = "ReDRGNN for drug repositioning"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
